@@ -2,7 +2,7 @@
 názov: 1.0.1 Predstavenie 1. modulu
 popis: Predstavenie 1. modulu
 ---
-??? info "Metadáta
+??? info "Metadáta"
     - Id: EU.AI4T.O1.M1.0.1t
     - Názov: 1.0.1 Prehľad 1. modulu
     - Typ: text
