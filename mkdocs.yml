@@ -293,7 +293,7 @@ plugins:
           build: false
         fr:
           name: Français
-          site_name: "L'intelligence artificielle pour et par les enseignants"
+          site_name: "Objavujte a podporujte využívanie umelej inteligencie vo vzdelávaní"
         it:
           name: Italiano
           site_name: "Intelligenza artificiale per e dagli insegnanti"
