@@ -1,17 +1,17 @@
 ---
-názov: 0.1.4 Čo tento kurz obsahuje?
-popis: Prezentácia obsahu a usporiadania MOOC kurzu
+title: 0.1.4 Čo tento kurz obsahuje?
+description: Prezentácia obsahu a usporiadania MOOC kurzu
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M0.1.4t
-    - Názov: 0.1.4 Čo tento kurz obsahuje?
-    - Typ: text
-    - Opis: Prezentácia obsahu a usporiadania MOOC kurzu
-    - Predmet: AI pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 0.1.4 Čo tento kurz obsahuje?
+    - Type: text
+    - Description: Prezentácia obsahu a usporiadania MOOC kurzu
+    - Subject: AI pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Čo tento kurz obsahuje?
 
