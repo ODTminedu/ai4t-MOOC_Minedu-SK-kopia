@@ -5,7 +5,7 @@ prispievateľ: Alain Thillay
 typ: video
 ---
 
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M0.1.1v
     - Názov: 0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní
     - Typ: video
