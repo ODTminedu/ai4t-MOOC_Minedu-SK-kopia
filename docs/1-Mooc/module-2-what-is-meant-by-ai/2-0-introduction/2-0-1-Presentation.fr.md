@@ -1,17 +1,17 @@
 ---
-názov: "2.0.1 Predstavenie 2. modulu"
-opis: "Pozrieme sa, čo je to vlastne AI, aký má potenciál a aké má limity vo vzdelávaní"
+title: "2.0.1 Predstavenie 2. modulu"
+description: Pozrieme sa, čo je to vlastne AI, aký má potenciál a aké má limity vo vzdelávaní
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.0.1t
-    - Názov: 2.0.1 Predstavenie 2. modulu
-    - Typ: text
-    - Popis: Pozrieme sa, čo je to vlastne AI, aký má potenciál a aké má limity vo vzdelávaní
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori: AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 2.0.1 Predstavenie 2. modulu
+    - Type: text
+    - Description: Pozrieme sa, čo je to vlastne AI, aký má potenciál a aké má limity vo vzdelávaní
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Predstavenie 2. modulu
 
