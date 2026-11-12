@@ -1,19 +1,18 @@
 ---
-názov: "2.1.3 Aktivita: Aká je definícia umelej inteligencie?"
-opis: "Kvíz zameraný na rôzne definície umelej inteligencie a jej oblasti."
-typ: aktivita
+title: "2.1.3 Aktivita: Aká je definícia umelej inteligencie?"
+description: Kvíz zameraný na rôzne definície umelej inteligencie a jej oblasti
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.1.3a
-    - Názov: 2.1.3 Aktivita: Aká je definícia umelej inteligencie?
-    - Typ: aktivita
-    - Opis: Kvíz zameraný na rôzne definície umelej inteligencie a jej oblasti.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 2.1.3 Aktivita: Aká je definícia umelej inteligencie?
+    - Type: aktivita
+    - Description: Kvíz zameraný na rôzne definície umelej inteligencie a jej oblasti
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Aká je definícia umelej inteligencie?
 
