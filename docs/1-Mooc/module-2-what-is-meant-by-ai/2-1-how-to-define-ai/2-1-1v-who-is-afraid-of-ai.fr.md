@@ -1,22 +1,21 @@
 ---
-názov: "2.1.1 Video: Kto sa bojí umelej inteligencie?"
-opis: "Úvod k videu: Kto sa bojí umelej inteligencie?"
-prispievateľ: "MOOC Intelligence Artificielle...avec Intelligence"
-typ: video
-licencia: "CC BY-SA 2.0"
+title: "2.1.1 Video: Kto sa bojí umelej inteligencie?"
+description: Úvod k videu: Kto sa bojí umelej inteligencie?
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
+type: video
+licence: CC BY-SA 2.0
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.1.1v
-    - Názov: 2.1.1 Video: Kto sa bojí umelej inteligencie?
-    - Typ: video
-    - Popis: Úvod k videu: Kto sa bojí umelej inteligencie?
-    - Téma: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 2.1.1 Video: Kto sa bojí umelej inteligencie?
+    - Type: video
+    - Description: Úvod k videu: Kto sa bojí umelej inteligencie?
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - Mooc "Umelá inteligencia... s inteligenciou
-    - Licencia: CC BY-SA 2.0
-    - Dátum: 2022-11-15
-
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
 
 # Video: Kto sa bojí umelej inteligencie?
 Toto video prináša humorný pohľad na umelú inteligenciu a jej vplyv na náš život. Pristupuje k problematike všeobecne a môže sa použiť v triede ako úvod do témy umelej inteligencie.
