@@ -22,6 +22,7 @@ type: video
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
+
 # Prechádzka svetom AI: proces učenia vo vzdelávaní
 ## Úvod
 
