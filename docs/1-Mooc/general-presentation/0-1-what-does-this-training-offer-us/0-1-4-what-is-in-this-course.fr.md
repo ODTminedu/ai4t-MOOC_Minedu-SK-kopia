@@ -7,7 +7,7 @@ description: Prezentácia obsahu a usporiadania MOOC kurzu
     - Title: 0.1.4 Čo tento kurz obsahuje?
     - Type: text
     - Description: Prezentácia obsahu a usporiadania MOOC kurzu
-    - Subject: AI pre učiteľov a od učiteľov
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
     - Authors:
         - AI4T 
     - Licence: CC BY 4.0
