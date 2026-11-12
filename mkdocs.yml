@@ -59,15 +59,6 @@ extra:
     - name: Français
       link: ./fr/
       lang: fr
-    - name: Italiano
-      link: ./it/
-      lang: it
-    - name: Deutsch
-      link: ./de/
-      lang: de
-    - name: Slovenščina
-      link: ./sl/
-      lang: sl
   # Liens vers des pages à afficher dans la page d'accueil (cards)
   parts:
     - title:
