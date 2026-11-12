@@ -1,17 +1,17 @@
 ---
-názov: 0.1.3 Kompletná vzdelávacia cesta v oblasti AI a vzdelávania
-popis: Opis všeobecnej vzdelávacej cesty pre všetkých partnerov.
+title: 0.1.3 Kompletná vzdelávacia cesta v oblasti AI a vzdelávania
+description: Opis všeobecnej vzdelávacej cesty pre všetkých partnerov
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M0.1.3t
-    - Názov: 0.1.3 Kompletná vzdelávacia cesta v oblasti AI a vzdelávania
-    - Typ: text
-    - Opis: Opis všeobecnej vzdelávacej cesty pre všetkých partnerov.
-    - Predmet: AI pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 0.1.3 Kompletná vzdelávacia cesta v oblasti AI a vzdelávania
+    - Type: text
+    - Description: Opis všeobecnej vzdelávacej cesty pre všetkých partnerov
+    - Subject: AI pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # MOOC kurz v centre komplexného vzdelávacieho programu o AI a vzdelávaní
 
