@@ -7,15 +7,15 @@ typ: video
 
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M0.1.1v
-    - Názov: 0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní
-    - Typ: video
-    - Popis: Rozhovor s Alainom Thillayom – jedným z iniciátorov projektu
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní
+    - Type: video
+    - Description: Rozhovor s Alainom Thillayom – jedným z iniciátorov projektu
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
         - Alain Thillay
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 
 # Rozhovor: Výzvy umelej inteligencie vo vzdelávaní
