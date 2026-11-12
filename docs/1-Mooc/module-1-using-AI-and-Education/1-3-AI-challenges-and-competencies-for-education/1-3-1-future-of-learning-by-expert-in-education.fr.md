@@ -1,16 +1,17 @@
 ---
-názov: 1.3.1 Budúcnosť vzdelávania podľa odborníkov
-opis: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére umelej inteligencie.
+title: "1.3.1 Budúcnosť vzdelávania podľa odborníkov"
+description: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére umelej inteligencie.
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M1.3.1t
-    - Názov: 1.3.1 Budúcnosť vzdelávania podľa odborníkov
-    - Typ: text
-    - Opis: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére umelej inteligencie.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Title: 1.3.1 Budúcnosť vzdelávania podľa odborníkov
+    - Type: text
+    - Description: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére umelej inteligencie.
+    - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Budúcnosť vzdelávania podľa odborníkov
 ## Umelá inteligencia sa už dostala do tried
