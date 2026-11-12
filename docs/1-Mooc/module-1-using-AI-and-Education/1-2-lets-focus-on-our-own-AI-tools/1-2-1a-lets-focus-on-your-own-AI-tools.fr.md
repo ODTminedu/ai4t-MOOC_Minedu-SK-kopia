@@ -1,20 +1,18 @@
 ---
-názov: "1.2.1 Aktivita: Zamerajte sa na svoje vlastné AI nástroje"
-opis: "Zamyslite sa nad svojimi postupmi v oblasti AI"
-typ: aktivita
+title: "1.2.1 Aktivita: Zamerajte sa na svoje vlastné AI nástroje"
+description: Zamyslite sa nad svojimi postupmi v oblasti AI
+type: aktivita
 ---
-
-??? info "Metadáta"
+??? info "Metadata"
     - Id: EU.AI4T.O1.M1.2.1a
-    - Názov: 1.2.1 Aktivita: Zamerajte sa na svoje vlastné AI nástroje"
-    - Typ: aktivita
-    - Opis: Zamyslite sa nad svojimi postupmi v oblasti AI
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 1.2.1 Aktivita: Zamerajte sa na svoje vlastné AI nástroje
+    - Type: aktivita
+    - Description: Zamyslite sa nad svojimi postupmi v oblasti AI
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Zamerajte sa na svoje vlastné AI nástroje
 
