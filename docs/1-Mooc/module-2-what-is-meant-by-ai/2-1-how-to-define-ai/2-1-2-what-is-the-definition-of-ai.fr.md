@@ -1,18 +1,18 @@
 ---
-názov: "2.1.2 Aká je definícia umelej inteligencie?"
-popis: "Uveďte rôzne definície umelej inteligencie a jej oblastí."
+title: "2.1.2 Aká je definícia umelej inteligencie?"
+description: Uveďte rôzne definície umelej inteligencie a jej oblastí
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.1.2t
-    - Názov: 2.1.2 Aká je definícia umelej inteligencie?
-    - Typ: text
-    - Opis: Uveďte rôzne definície umelej inteligencie a jej oblastí.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 2.1.2 Aká je definícia umelej inteligencie?
+    - Type: text
+    - Description: Uveďte rôzne definície umelej inteligencie a jej oblastí
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+	
 # Aká je definícia umelej inteligencie?
 
 ## Vývoj definície
