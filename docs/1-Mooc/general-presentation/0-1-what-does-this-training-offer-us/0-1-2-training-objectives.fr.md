@@ -1,4 +1,4 @@
- ---
+---
 title: 0.1.2 Čo je cieľom tohto kurzu?
 description: Zaradenie kurzu do európskeho rámca
 ---
