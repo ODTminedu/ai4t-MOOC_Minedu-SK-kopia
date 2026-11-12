@@ -1,28 +1,26 @@
 ---
-názov: "1.1.1 Video: Prechádzka svetom AI: proces učenia vo vzdelávaní"
-popis: "Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní"
-prispievateľ:
-  - "Anne Boyer - Loria"
-  - "Armelle Brun - Loria"
-  - "Azim Roussanaly - Loria"
-  - "Guilherme Medeiros-Machado - Loria"
-typ: "video"
+title: "1.1.1 Video: Prechádzka svetom AI: proces učenia vo vzdelávaní"
+description: Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní
+contributor:  Anne Boyer - Loria
+              Armelle Brun - Loria
+              Azim Roussanaly - Loria
+              Guilherme Medeiros-Machado - Loria
+type: video
 ---
-
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M1.1.1v
-    - Názov: 1.1.1 Video: Prechádzka svetom AI: proces učenia vo vzdelávaní
-    - Typ: video
-    - Popis: Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 1.1.1 Video: Prechádzka svetom AI: proces učenia vo vzdelávaní
+    - Type: video
+    - Description: Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - Anne, Boyer - Loria
-        - Armelle, Brun - Loria
-        - Azim, Roussanaly - Loria
-        - Guilherme, Medeiros-Machado - Loria
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+        - Anne Boyer - Loria
+        - Armelle Brun - Loria
+        - Azim Roussanaly - Loria
+        - Guilherme Medeiros-Machado - Loria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Prechádzka svetom AI: proces učenia vo vzdelávaní
 ## Úvod
