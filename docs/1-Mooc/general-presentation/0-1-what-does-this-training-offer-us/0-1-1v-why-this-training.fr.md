@@ -1,7 +1,7 @@
 ---
-názov: "0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní"
-popis: Rozhovor s Alainom Thillayom – jedným z iniciátorov projektu
-prispievateľ: Alain Thillay
+title: "0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní"
+description: Rozhovor s Alainom Thillayom – jedným z iniciátorov projektu
+contributor: Alain Thillay
 typ: video
 ---
 
