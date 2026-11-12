@@ -1,28 +1,26 @@
 ---
-názov: "1.1.3 Video: Prechádzka svetom AI – Analytika učenia"
-popis: "Video č. 3 Prechádzka svetom AI – Analytika učenia"
-prispievateľ: |
-  Anne, Boyer - Loria
-  Armelle, Brun - Loria
-  Azim, Roussanaly - Loria
-  Guilherme, Medeiros-Machado - Loria
-typ: video
+title: "1.1.3 Video: Prechádzka svetom AI – Analytika učenia"
+description: Video 3 Prechádzka svetom AI – Analytika učenia
+contributor:  Anne, Boyer - Loria
+              Armelle, Brun - Loria
+              Azim, Roussanaly - Loria
+              Guilherme, Medeiros-Machado - Loria
+type: video
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M1.1.3v
-    - Názov: 1.1.3 Video: Prechádzka svetom AI – Analytika učenia
-    - Typ: video
-    - Popis: Video č. 3: Prechádzka svetom AI – Analytika učenia
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 1.1.3 Video: Prechádzka svetom AI – Analytika učenia
+    - Type: video
+    - Description: Video 3 Prechádzka svetom AI – Analytika učenia
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
         - Anne, Boyer - Loria
         - Armelle, Brun - Loria
         - Azim, Roussanaly - Loria
         - Guilherme, Medeiros-Machado - Loria
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Prechádzka svetom AI – Analytika učenia
 ## Video č. 3: Prechádzka svetom AI – Analytika učenia
