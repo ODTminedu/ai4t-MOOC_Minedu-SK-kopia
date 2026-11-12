@@ -2,16 +2,16 @@
 title: 1.0.1 Predstavenie 1. modulu
 description: Predstavenie 1. modulu
 ---
-??? info "Metadáta"
+??? info "Metadata"
     - Id: EU.AI4T.O1.M1.0.1t
-    - Názov: 1.0.1 Prehľad 1. modulu
-    - Typ: text
-    - Opis: Prehľad 1. modulu 
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 1.0.1 Predstavenie 1. modulu
+    - Type: text
+    - Description: Predstavenie 1. modulu
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Predstavenie 1. modulu
 V posledných rokoch sa umelá inteligencia (AI) stala súčasťou nášho každodenného života. Slúži napríklad na identifikovanie spamových e-mailov či na výber obsahu podľa našich preferencií na sociálnych sieťach.
