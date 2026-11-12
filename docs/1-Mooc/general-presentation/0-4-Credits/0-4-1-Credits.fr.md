@@ -12,6 +12,7 @@ description: Partneri, financovanie a upozorneniag
         - AI4T 
     - Licence: CC BY 4.0
     - Date: 2022-11-15
+
     
 # Financovanie
 MOOC kurz AI4T je financovaný z grantu č. 626154-EPP-1-2020-2-EN-EPPKA3-PI-POLICY Európskej výkonnej agentúry pre vzdelávanie a kultúru (EACEA) v rámci projektu Erasmus+ KA3: Umelá inteligencia pre učiteľov a od učiteľov.
