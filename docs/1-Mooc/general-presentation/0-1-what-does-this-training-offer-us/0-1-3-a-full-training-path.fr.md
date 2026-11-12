@@ -7,7 +7,7 @@ description: Opis všeobecnej vzdelávacej cesty pre všetkých partnerov
     - Title: 0.1.3 Kompletná vzdelávacia cesta v oblasti AI a vzdelávania
     - Type: text
     - Description: Opis všeobecnej vzdelávacej cesty pre všetkých partnerov
-    - Subject: AI pre učiteľov a od učiteľov
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
     - Authors:
         - AI4T 
     - Licence: CC BY 4.0
