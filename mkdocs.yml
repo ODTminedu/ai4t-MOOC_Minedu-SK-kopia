@@ -72,7 +72,7 @@ extra:
   parts:
     - title:
         en: "Mooc contents"
-        fr: "Contenus du Mooc"
+        fr: "Obsah MOOC"
         it: "Contenuti del Mooc"
         de: "Mooc-Inhalten"
         sl: "Mooc vsebina"
@@ -306,9 +306,9 @@ plugins:
       # Traductions manquantes dans la navigation
       nav_translations:
         fr:
-          "Home": "Accueil"
-          "About": "À propos"
-          "Explore and support the use of AI in education": "Explorer et soutenir l'utilisation de l'IA dans l'éducation"
+          "Home": "Domov"
+          "About": "O projekte"
+          "Explore and support the use of AI in education": "Objavujte a podporujte využívanie umelej inteligencie vo vzdelávaní"
           "Mooc": "Mooc"
           "General Presentation": "Présentation générale"
           "0.1 What does this training offer us?": "0.1 Que nous offre cette formation ?"
@@ -336,11 +336,11 @@ plugins:
           "4.2 Imagine teaching with AI": "4.2 Imaginez enseigner avec l'IA"
           "4.3 Artificial Intelligence at our Service?": "4.3 L'intelligence artificielle à notre service ?"
           "Conclusion": "Conclusion"
-          "Build Your Own Training": "Construire sa propre formation"
+          "Build Your Own Training": "Vytvorte si vlastný kurz"
           "Step 1": "Étape 1"
           "Step 2": "Étape 2"
           "Step 3": "Étape 3"
-          "AI4T Resources": "Ressources AI4T"
+          "AI4T Resources": "Zdroje AI4T"
           "Presentation": "Présentation"
           "AI and Education Tools": "Outils d'IA et Éducation"
           "Mooc and Online Resources": "Mooc et ressources en ligne"
