@@ -1,17 +1,17 @@
+ ---
+title: 0.1.2 Čo je cieľom tohto kurzu?
+description: Zaradenie kurzu do európskeho rámca
 ---
-názov: 0.1.2 Čo je cieľom tohto kurzu?
-popis: Zaradenie kurzu do európskeho rámca
----
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M0.1.2t
-    - Názov: 0.1.2 Čo je cieľom tohto školenia?
-    - Typ: text
-    - Popis: Zaradenie kurzu do európskeho rámca
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 0.1.2 Čo je cieľom tohto školenia?
+    - Type: text
+    - Description: Zaradenie kurzu do európskeho rámca
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 
 # Čo je cieľom tohto školenia?
