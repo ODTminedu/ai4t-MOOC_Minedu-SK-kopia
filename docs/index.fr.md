@@ -1,10 +1,10 @@
 ---
-názov: Home
-šablóna: home.en.html
-skryť:
+title: Home
+template: home.fr.html
+hide:
 - title
 - toc
-- navigácia
+- navigation
 ---
 
 <p style="text-align:right; color: #4051b5;">Projekt AI4T je spolufinancovaný programom Európskej únie Erasmus+ <br/>.<br/> <a href="https://www.ai4t.eu/" target="_blank"><em>Visitez le site web AI4T</em></a> </p>
