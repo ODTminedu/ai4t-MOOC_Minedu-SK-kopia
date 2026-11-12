@@ -17,6 +17,7 @@ licence: CC BY-SA 2.0
     - Licence: CC BY-SA 2.0
     - Date: 2022-11-15
 
+
 # Video: Kto sa bojí umelej inteligencie?
 Toto video prináša humorný pohľad na umelú inteligenciu a jej vplyv na náš život. Pristupuje k problematike všeobecne a môže sa použiť v triede ako úvod do témy umelej inteligencie.
 
