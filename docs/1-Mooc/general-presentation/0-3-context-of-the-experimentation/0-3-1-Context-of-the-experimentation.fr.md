@@ -1,17 +1,17 @@
 ---
-názov: 0.3.1 Kontext experimentu
-opis: Podmienky zberu stôp učenia sa študentov
+title: 0.3.1 Kontext experimentu
+description: Podmienky zberu stôp učenia sa žiakov
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M0.3.1t
-    - Názov: 0.3.1 Kontext experimentu
-    - Typ: text
-    - Opis: Podmienky zberu stôp učenia sa študentov
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 0.3.1 Kontext experimentu
+    - Type: text
+    - Description: Podmienky zberu stôp učenia sa žiakov
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Kontext experimentu
 
