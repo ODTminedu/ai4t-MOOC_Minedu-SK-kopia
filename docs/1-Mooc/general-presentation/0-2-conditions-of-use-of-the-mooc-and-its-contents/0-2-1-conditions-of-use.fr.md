@@ -1,17 +1,17 @@
 ---
-názov: 0.2.1 Podmienky používania obsahu MOOC kurzu
-popis: Podmienky používania zdrojov z MOOC kurzu - licencie a bezpečnostné opatrenia
+title: 0.2.1 Podmienky používania obsahu MOOC kurzu
+description: Podmienky používania zdrojov z MOOC kurzu - licencie a bezpečnostné opatrenia
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M0.2.1t
-    - Názov: 0.2.1 Podmienky používania obsahu MOOC kurzu
-    - Typ: text
-    - Opis: Podmienky používania zdrojov z MOOC kurzu - licencie a bezpečnostné opatrenia
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Title: 0.2.1 Podmienky používania obsahu MOOC kurzuc
+    - Type: text
+    - Description: Podmienky používania zdrojov z MOOC kurzu - licencie a bezpečnostné opatrenia
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Podmienky používania obsahu MOOC kurzu
 
