@@ -1,28 +1,27 @@
 ---
-názov: "2.3.1 Aktivita: Tutoriál – Poďme otestovať náš prvý program"
-popis: "Tutoriál na objavovanie programov na rozpoznávanie obrazu: ako ich trénovať a ako ich oklamať."
-prispievateľ: 
-  - "Magic Makers"
-  - "Inria"
-  - "S24B"
-  - "Kód triedy"
-typ: aktivita
+title: "2.3.1 Aktivita: Tutoriál – Poďme otestovať náš prvý program"
+description: "Tutoriál na objavovanie programov na rozpoznávanie obrazu: ako ich trénovať a ako ich oklamať."
+contributor:   Magic Makers
+                Inria
+                S24B
+                Class'Code      
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.3.1a
-    - Názov: 2.3.1 Aktivita: Tutoriál – Poďme otestovať náš prvý program
-    - Typ: aktivita
-    - Popis: Tutoriál na objavovanie programov na rozpoznávanie obrazu: ako ich trénovať a ako ich oklamať
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
-        - Magickí tvorcovia
+    - Title: 2.3.1 Aktivita: Tutoriál – Poďme otestovať náš prvý program
+    - Type: aktivita
+    - Description: Tutoriál na objavovanie programov na rozpoznávanie obrazu: ako ich trénovať a ako ich oklamať.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+        - Magic Makers
         - Inria
         - S24B
-        - Kód triedy
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+        - Class'Code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Aktivita: Tutoriál – Poďme otestovať náš prvý program
 
 Rozpoznávanie obrazu je oblasť umelej inteligencie, ktorá zaznamenala značný rozmach. V tomto tutoriáli otestujeme rozpoznávanie obrazu a natrénujeme program na rozpoznávanie psov a mačiek. Následne nám tutoriál pripomenie, že tento program dokáže robiť len to, na čo bol natrénovaný, a teda sa dá aj oklamať.
