@@ -1,19 +1,18 @@
 ---
-Názov: "3.1.5 Aktivita: Identifikácia symbolickej umelej inteligencie"
-opis: Čo je a čo nie je symbolická umelá inteligencia?
-typ: aktivita
+title: "3.1.5 Aktivita: Identifikácia symbolickej umelej inteligencie"
+description: Čo je a čo nie je symbolická umelá inteligencia?
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.1.5a
-    - Názov: 3.1.5 Aktivita: Identifikácia symbolickej umelej inteligencie
-    - Typ: činnosť
-    - Opis: Čo je a čo nie je symbolická umelá inteligencia?
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.1.5 Aktivita: Identifikácia symbolickej umelej inteligencie
+    - Type: aktivita
+    - Description: Čo je a čo nie je symbolická umelá inteligencia?
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Symbolická umelá inteligencia
 
