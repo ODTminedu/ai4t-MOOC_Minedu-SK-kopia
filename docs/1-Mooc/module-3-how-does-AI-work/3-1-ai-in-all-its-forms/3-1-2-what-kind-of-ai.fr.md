@@ -1,17 +1,17 @@
 ---
-názov: "3.1.2 Aký typ umelej inteligencie?"
-popis: "Získajte základné pochopenie typov AI"
+title: "3.1.2 Aký typ umelej inteligencie?"
+description: "Získajte základné pochopenie typov AI"
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.1.2t
-    - Názov: "M3.1.2: 
-    - Typ: text
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.1.2 Aký typ umelej inteligencie?
+    - Type: text
+    - Description: Získajte základné pochopenie typov AI
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aký typ umelej inteligencie?  
 Vo vedeckej literatúre možno nájsť mnoho typov umelej inteligencie. Pozrime sa, na čo jednotlivé typy odkazujú.
