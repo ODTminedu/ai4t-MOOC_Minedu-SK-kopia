@@ -1,17 +1,17 @@
 ---
-názov: 4.0.1 Predstavenie 4. modulu
-popis: Predstavenie 4. modulu
+title: "4.0.1 Predstavenie 4. modulu"
+description: Predstavenie 4. modulu
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.0.1t
-    - Názov: 4.0.1 Predstavenie 4. modulu
-    - Typ: text
-    - Opis: Predstavenie 4. modulu
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.0.1 Predstavenie 4. modulu
+    - Type: text
+    - Description: Predstavenie 4. modulu
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 
 # Predstavenie 4. modulu
