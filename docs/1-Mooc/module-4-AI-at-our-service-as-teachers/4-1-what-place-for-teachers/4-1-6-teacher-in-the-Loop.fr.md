@@ -1,18 +1,18 @@
 ---
-názov: "4.1.6 Učiteľ v slučke"
-popis: "Pochopenie modelu „učiteľ v slučke“ a využiť ho ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami."
+title: "4.1.6 Učiteľ v slučke"
+description: "Pochopenie modelu „učiteľ v slučke“ a využiť ho ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami."
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.6t
-    - Názov: 4.1.6 Učiteľ v slučke
-    - Typ: text
-    - Opis: Pochopenie modelu „učiteľ v slučke“ a využiť ho ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.1.6 Učiteľ v slučke
+    - Type: text
+    - Description: Pochopenie modelu „učiteľ v slučke“ a využiť ho ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Učiteľ v slučke
 
 V oblasti vzdelávania a odbornej prípravy by *„všetky zainteresované strany mali zvážiť dôsledky toho, keď sa novým technológiám prenechá právomoc prijímať pedagogické rozhodnutia, ktoré by inak robili ľudskí odborníci s primeranými znalosťami pedagogiky a obsahu konkrétneho predmetu.“*[^1]  
