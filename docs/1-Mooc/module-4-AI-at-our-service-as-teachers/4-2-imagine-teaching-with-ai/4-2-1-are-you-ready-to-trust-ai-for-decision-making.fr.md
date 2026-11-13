@@ -1,22 +1,22 @@
 ---
-názov: "4.2.1 Dôvera v umelú inteligenciu?"
-popis: "Pochopenie vplyvu používania AI nástrojov na rozhodovanie a potrebné bezpečnostné opatrenia pri ich využívaní."
-prispievateľ: |
-  AI4T
-  Ikram Chraibi Kaadoud, výskumník v oblasti AI
+title: "4.2.1 Ste pripravení dôverovať umelej inteligencii?"
+description: "Pochopenie vplyvu používania AI nástrojov na rozhodovanie a potrebné bezpečnostné opatrenia pri ich využívaní."
+contributor:  AI4T
+              Ikram Chraibi Kaadoud, AI Researcher
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.2.1t
-    - Názov:
-    - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.2.1 Ste pripravení dôverovať umelej inteligencii?
+    - Type: text
+    - Description: Pochopenie vplyvu používania AI nástrojov na rozhodovanie a potrebné bezpečnostné opatrenia pri ich využívaní.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
         - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
-
+        - Ikram Chraibi Kaadoud, AI Researcher
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Ste pripravení dôverovať umelej inteligencii pri rozhodovaní?
 
 Nie všetky rozhodnutia prijaté pomocou AI nástrojov majú rovnaký vplyv.
