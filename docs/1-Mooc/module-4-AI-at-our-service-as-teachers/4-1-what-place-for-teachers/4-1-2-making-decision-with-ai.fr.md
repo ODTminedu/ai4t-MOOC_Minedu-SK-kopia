@@ -1,18 +1,17 @@
 ---
-názov: "4.1.2 Rozhodovanie s pomocou AI"
-popis: "Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovať."
+title: "4.1.2 Rozhodovanie s pomocou AI"
+description: "Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovať."
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.2t
-    - Názov: 4.1.2 Rozhodovanie s pomocou AI
-    - Typ: text
-    - Opis: Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovať.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori:
+    - Title: 4.1.2 Rozhodovanie s pomocou AI
+    - Type: text
+    - Description: Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovať.
+    - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Rozhodovanie s pomocou AI
 
