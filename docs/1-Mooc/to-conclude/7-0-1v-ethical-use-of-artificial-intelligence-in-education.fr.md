@@ -1,21 +1,21 @@
 ---
-názov: "Rozhovor: etické využívanie AI vo vzdelávaní"
-popis: "Rozhovor s Alainom Thillayom o etických výzvach AI vo vzdelávaní."
-prispievateľ: "Alain Thillay, expert na vzdelávacie technológie"
-typ: video
+title: "Rozhovor: etické využívanie AI vo vzdelávaní"
+description: "Rozhovor s Alainom Thillayom o etických výzvach AI vo vzdelávaní."
+Contributor: Alain Thillay
+type: video
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M7.0.1v
-    - Názov: Rozhovor: Etické využívanie AI vo vzdelávaní
-    - Typ: text
-    - Popis: Inteligentná umelá inteligencia v Európe: rozhovor o AI: 
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: Rozhovor: etické využívanie AI vo vzdelávaní
+    - Type: video
+    - Description: Rozhovor s Alainom Thillayom o etických výzvach AI vo vzdelávaní.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
-
+        - Alain Thillay
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Rozhovor: úvod do etických otázok spojených s využívaním AI vo vzdelávaní
 
 V nasledujúcom videu Alain Thillay, francúzsky národný expert na digitálne vzdelávanie, predstavuje výzvy a etické otázky spojené s využívaním AI vo vzdelávaní na európskej úrovni:
