@@ -1,6 +1,6 @@
 ---
 title: "2.2.1 Video: Čo je to umelá inteligencia?"
-description: Úvod k videu: Čo je to umelá inteligencia?
+description: "Úvod k videu: Čo je to umelá inteligencia?"
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
@@ -16,7 +16,6 @@ licence: CC BY-SA 2.0
         - Mooc "Intelligence Artificielle...avec Intelligence"
     - Licence: CC BY-SA 2.0
     - Date: 2022-11-15
-
 
 # Video: Čo je to umelá inteligencia?
 
