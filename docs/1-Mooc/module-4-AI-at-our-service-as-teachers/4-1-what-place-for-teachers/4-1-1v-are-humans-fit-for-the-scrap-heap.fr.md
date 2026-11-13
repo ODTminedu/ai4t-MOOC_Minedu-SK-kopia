@@ -1,22 +1,22 @@
 ---
-názov: "4.1.1 Video: Aké miesto majú ľudia?"
-popis: "Očakávané zmeny v dôsledku AI so zameraním na pracovný trh."
-prispievateľ: "MOOC L'Intelligence Artificielle... avec intelligence"
-typ: video
-licencia: "CC BY-SA 2.0"
+title: "4.1.1 Video: Aké miesto majú ľudia?"
+description: "Očakávané zmeny v dôsledku AI so zameraním na pracovný trh."
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
+type: video
+licence: CC BY-SA 2.0
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.1v
-    - Názov: 4.1.1 Video : Aké miesto pre človeka?
-    - Typ: video
-    - Popis: Očakávané zmeny v dôsledku AI so zameraním na pracovný trh.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.1.1 Video: Aké miesto majú ľudia?
+    - Type: video
+    - Description: Očakávané zmeny v dôsledku AI so zameraním na pracovný trh.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - MOOC L'Intelligence Artificielle... avec intelligence
-    - Licencia: CC BY-SA 2.0
-    - Dátum: 2022-11-15
-
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+    
 # Video: Aké miesto majú ľudia?
 
 Toto video poukazuje na zmeny, ktoré by umelá inteligencia mohla priniesť do pracovného sveta, a najmä na jej vplyv na vývoj niektorých profesií, pričom sa nezameriava konkrétne na oblasť vzdelávania.  
