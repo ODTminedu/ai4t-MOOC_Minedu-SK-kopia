@@ -1,18 +1,17 @@
 ---
-názov: 3.0.1 Predstavenie 3. modulu
-popis: Predstavenie 3. modulu
+title: 3.0.1 Predstavenie 3. modulu
+description: Predstavenie 3. modulu
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.0.1t
-    - Názov: 3.0.1 Predstavenie 3. modulu
-    - Typ: text
-    - Opis: Predstavenie 3. modulu
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.0.1 Predstavenie 3. modulu
+    - Type: text
+    - Description: Predstavenie 3. modulu
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Predstavenie 3. modulu
 
