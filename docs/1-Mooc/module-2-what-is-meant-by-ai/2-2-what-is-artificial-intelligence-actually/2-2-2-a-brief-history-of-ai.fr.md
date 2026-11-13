@@ -1,20 +1,20 @@
 ---
-názov: 2.2.2 Stručné dejiny umelej inteligencie
-opis: Vysvetlenie pôvodu umelej inteligencie
-prispievateľ: Nicolas, Rougier - Inria
+title: 2.2.2 Stručné dejiny umelej inteligencie
+description: Vysvetlenie pôvodu umelej inteligencie
+contributor:  Nicolas, Rougier - Inria
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.2.2t
-    - Názov: A.I.T: 
-    - Typ: text
-    - Opis: text 
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 2.2.2 Stručné dejiny umelej inteligencie
+    - Type: text
+    - Description: Vysvetlenie pôvodu umelej inteligencie
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-    - Modifikované: 2023-10-02
-
+        - Nicolas, Rougier - Inria
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    - Modified : 2023-10-02
 
 # Stručné dejiny umelej inteligencie
 Umelá inteligencia je dnes prítomná v mnohých technológiách, ktoré používame na každodennej báze: v našich počítačoch, mobilných telefónoch, hodinkách či reproduktoroch. Je dokonca prítomná aj v našich vyhľadávačoch, na sociálnych sieťach, v mnohých aplikáciách a videohrách.  
