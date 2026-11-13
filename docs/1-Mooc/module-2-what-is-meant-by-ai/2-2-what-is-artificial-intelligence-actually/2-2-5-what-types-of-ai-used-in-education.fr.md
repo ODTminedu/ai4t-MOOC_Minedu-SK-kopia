@@ -1,17 +1,18 @@
 ---
-názov: 2.2.5 Aké sú možnosti využitia AI vo vzdelávaní?
-opis: Existujúce AI systémy a ich potenciálne či aktuálne využitie vo vzdelávaní.
+title: 2.2.5 Aké sú možnosti využitia AI vo vzdelávaní?
+description: Existujúce AI systémy a ich potenciálne či aktuálne využitie vo vzdelávaní.
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.2.5t
-    - Názov: AIT4.0.1.1. Názov: AIT4.0.1.2:
-    - Typ: text
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 2.2.5 Aké sú možnosti využitia AI vo vzdelávaní?
+    - Type: text
+    - Description: Existujúce AI systémy a ich potenciálne či aktuálne využitie vo vzdelávan
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Aké sú možnosti využitia AI vo vzdelávaní?
 
 Spomedzi všetkých možných spôsobov zatriedenia podoblastí umelej inteligencie v nasledujúcej tabuľke uvádzame taxonómiu umelej inteligencie[^1] podľa skupín funkcií, ktoré môže vykonávať.
