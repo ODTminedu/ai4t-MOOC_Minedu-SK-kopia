@@ -1,23 +1,22 @@
 ---
-názov: "4.3.1 Video: Umelá inteligencia v našich službách?"
-popis: "Definujeme vysvetliteľnosť v oblasti AI a výzvy, ktoré prináša."
-prispievateľ: "MOOC Intelligence Artificielle...avec Intelligence"
-typ: video
-licencia: "CC BY-SA 2.0"
+title: "4.3.1 Video: Umelá inteligencia v našich službách?"
+description: "Definujeme vysvetliteľnosť v oblasti AI a výzvy, ktoré prináša."
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
+type: video
+licence: CC BY-SA 2.0
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.3.1v
-    - Názov: 4.3.1 Video: Umelá inteligencia v našich službách?
-    - Typ: video
-    - Opis: Definujeme vysvetliteľnosť v oblasti AI a výzvy, ktoré prináša.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.3.1 Video: Umelá inteligencia v našich službách?
+    - Type: video
+    - Description: Definujeme vysvetliteľnosť v oblasti AI a výzvy, ktoré prináša.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - Mooc Intelligence Artificielle...avec Intelligence
-    - Licencia: CC BY-SA 2.0
-    - Dátum: 2022-11-15
-
-
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+    
 # Video: Umelá inteligencia v našich službách?
 
 Cieľom tohto videa je definovať, čo je to vysvetliteľnosť v oblasti umelej inteligencie a aké výzvy sa s ňou spájajú. Konkrétne sa video zameriava na to, ako sa konštruuje odpoveď v nástrojoch na podporu rozhodovania. Vzhľadom na dôležitosť určitých rozhodnutí – napríklad v oblasti medicíny či poradenstva pre študentov – video otvára diskusiu o otázke právneho rámca pre umelú inteligenciu a o tom, aké informácie používatelia potrebujú, aby boli schopní robiť informované rozhodnutia.
