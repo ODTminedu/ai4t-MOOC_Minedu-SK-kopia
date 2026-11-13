@@ -1,21 +1,21 @@
 ---
-názov: "3.2.5 Aktivita: Pohrajte sa s neurónmi stroja"
-popis: "Zistite, ako funguje umelá neurónová sieť"
-typ: aktivita
-prispievateľ: "Pixees.fr"
+title: "3.2.5 Aktivita: Pohrajte sa s neurónmi stroja"
+description: "Zistite, ako funguje umelá neurónová sieť"
+type: aktivita
+contributor:  Pixees French web site
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.5a
-    - Názov: 3.2.5 Činnosť: Pohrajte sa s neurónmi stroja
-    - Typ: aktivita
-    - Opis: Zistite, ako funguje umelá neurónová sieť
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.2.5 Aktivita: Činnosť: Pohrajte sa s neurónmi stroja
+    - Type: aktivita
+    - Description: Zistite, ako funguje umelá neurónová sieť
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - Pixees.fr
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+        - Pixees French web site
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Aktivita: Pohrajte sa s neurónmi stroja
 Online softvér **[TensorFlow](https://www.tensorflow.org/overview/)** umožňuje vytvárať umelé neurónové siete a testovať ich reakcie na rôzne typy úloh a dát. Pri úlohe typu „klasifikácia“ je cieľom oddeliť modré a oranžové body. Príkladom takéhoto využitia v praxi je napríklad algoritmus na klasifikáciu fotografií. V nasledujúcom príklade jeden vstup (príznak) oddeľuje body horizontálne a druhý zase vertikálne. Skombinovaním týchto dvoch vstupov získame šikmé rozdelenie. Výsledok (výstup) je dobre prispôsobený zvolenému typu údajov.
 
