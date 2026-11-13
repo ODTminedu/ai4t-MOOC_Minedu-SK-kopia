@@ -1,22 +1,21 @@
 ---
-názov: "2.2.1 Video: Čo je to umelá inteligencia?"
-popis: "Úvod k videu: Čo je to umelá inteligencia?"
-prispievateľ: "MOOC Intelligence Artificielle...avec Intelligence"
-typ: video
-licencia: "CC BY-SA 2.0"
+title: "2.2.1 Video: Čo je to umelá inteligencia?"
+description: Úvod k videu: Čo je to umelá inteligencia?
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
+type: video
+licence: CC BY-SA 2.0
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.2.1v
-    - Názov: 2.2.1 Video: Čo je to umelá inteligencia?
-    - Typ: video
-    - Opis: Úvod k videu: Čo je to umelá inteligencia?
-    - Téma: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 2.2.1 Video: Čo je to umelá inteligencia?
+    - Type: video
+    - Description: Úvod k videu: Čo je to umelá inteligencia?
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - MOOC Intelligence Artificielle...avec Intelligence
-    - Licencia: CC BY-SA 2.0
-    - Dátum: 2022-11-15
-
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
 
 
 # Video: Čo je to umelá inteligencia?
