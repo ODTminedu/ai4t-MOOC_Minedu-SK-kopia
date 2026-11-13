@@ -1,19 +1,19 @@
 ---
-názov: "3.1.1 Video: Posilnené umelou inteligenciou"
-popis: "Prehľad možností využitia umelej inteligencie"
-typ: video
+title: "3.1.1 Video: Posilnené umelou inteligenciou"
+description: "Prehľad možností využitia umelej inteligencie"
+type: video
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.1.1v
-    - Názov: 3.1.1 Video: Posilnené umelou inteligenciou
-    - Typ: video
-    - Popis: Prehľad možností využitia umelej inteligencie
-    - Vec: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.1.1 Video: Posilnené umelou inteligenciou
+    - Type: video
+    - Description: Prehľad možností využitia umelej inteligencie
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Video: Posilnené umelou inteligenciou
 
 Toto všeobecné video ponúka prehľad všetkých možností využitia umelej inteligencie, z ktorých niektoré sú pomerne nečakané.
