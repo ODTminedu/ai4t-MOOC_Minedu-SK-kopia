@@ -1,19 +1,18 @@
 ---
-názov: "Etické usmernenia týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní"
-popis: "Prezentácia etických usmernení Európskej komisie."
+title: "Etické usmernenia týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní"
+description: "Prezentácia etických usmernení Európskej komisie."
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M7.0.2t
-    - Názov: Etické usmernenia týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní.
-    - Typ: text
-    - Opis: Prezentácia etických usmernení Európskej komisie
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov.
-    - Autori:
+    - Title: Etické usmernenia týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní
+    - Type: text
+    - Description: Prezentácia etických usmernení Európskej komisie.
+    - Subject:  Umelá inteligencia pre učiteľov a od učiteľov.
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Etické usmernenia týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní
 V októbri 2022 Európska komisia v rámci akčného plánu digitálneho vzdelávania (opatrenie č. 6)[^1] zverejnila *Etické usmernenia pre pedagógov týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní*, ktoré majú pedagógom pomôcť pochopiť potenciál AI aplikácií a využívania údajov vo vzdelávaní a zároveň zvýšiť povedomie o možných rizikách.
 
