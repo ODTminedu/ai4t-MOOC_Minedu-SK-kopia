@@ -1,27 +1,26 @@
 ---
-názov: "3.3.1 Aktivita: Tvorme s umelou inteligenciou"
-popis: "Určite, či je obrázok skutočný alebo vytvorený umelou inteligenciou"
-prispievateľ: 
-  - "Magic Makers"
-  - "Inria"
-  - "S24B"
-  - "Class Code"
-typ: aktivita
+title: "3.3.1 Aktivita: Tvorme s umelou inteligenciou"
+description: "Určite, či je obrázok skutočný alebo vytvorený umelou inteligenciou"
+contributor:  Magic Makers
+              Inria
+              S24B
+              Class'code  
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.3.1a
-    - Názov: 3.3.1 Aktivita: Tvorme s umelou inteligenciou
-    - Typ: činnosť
-    - Opis: Určite, či je obrázok skutočný alebo vytvorený umelou inteligenciou.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
+    - Title: 3.3.1 Aktivita: Tvorme s umelou inteligenciou
+    - Type: aktivita
+    - Description: rčite, či je obrázok skutočný alebo vytvorený umelou inteligenciou
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
         - Magic Makers
         - Inria
         - S24B
-        - Class Code
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+        - Class'code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Tvorme s umelou inteligenciou
 ## Odhaľujeme AI: umelá inteligencia alebo človek?
