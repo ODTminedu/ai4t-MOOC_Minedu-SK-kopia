@@ -1,26 +1,25 @@
 ---
-názov: "3.3.3 ChatGPT a jazykové modely"
-popis: "Videá a zdroje na pochopenie ChatGPT"
-autor:
-  - "Alexandre Torres-Leguet - Flowers - Inria"
-  - "Clément Romac - Flowers - Inria"
-  - "Thomas Carta - Flowers - Inria"
-  - "Pierre-Yves Oudeyer - Flowers - Inria"
-typ: video
+title: "3.3.3 ChatGPT a jazykové modely"
+description: "Videá a zdroje na pochopenie ChatGPT"
+contributor:    Alexandre, Torres-Leguet - Flowers - Inria
+                Clément, Romac - Flowers - Inria
+                Thomas, Carta - Flowers - Inria
+                Pierre-Yves, Oudeyer - Flowers - Inria
+type: video
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.3.2t
-    - Názov: ChatGPT a jazykové modely
-    - Typ: video
-    - Popis: Ďalšie informácie o GAN
-    - Vec: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: ChatGPT a jazykové modely
+    - Type: video
+    - Description: Videá a zdroje na pochopenie ChatGPT
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - Alexandre, Torres-Leguet - Flowers - Inria
         - Clément, Romac - Flowers - Inria
         - Thomas, Carta - Flowers - Inria
         - Pierre-Yves, Oudeyer - Flowers - Inria
-    - Licencia: CC BY 4.0
-    - Dátum: 2023-10-02
+    - Licence: CC BY 4.0
+    - Date: 2023-10-02
 
 
 Za jazykovým modelom ChatGPT a mnohými diskusiami, ktoré ho sprevádzajú, stojí základná otázka o tom, čo je podstatou generatívnej umelej inteligencie – najmä vzhľadom na jej početné dôsledky pre oblasť vzdelávania.
