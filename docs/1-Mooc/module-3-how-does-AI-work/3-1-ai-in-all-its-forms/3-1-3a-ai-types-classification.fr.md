@@ -1,19 +1,18 @@
 ---
-názov: "3.1.3 Aktivita: Klasifikácia rôznych typov AI"
-popis: "Spoznajte rôzne typy AI a ich vzájomný vzťah."
-typ: aktivita
+title: "3.1.3 Aktivita: Klasifikácia rôznych typov AI"
+description: "Spoznajte rôzne typy AI a ich vzájomný vzťah."
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.1.3a
-    - Názov: 3.1.3 Aktivita: Klasifikácia rôznych typov AI
-    - Typ: aktivita
-    - Opis: Spoznajte rôzne typy AI a ich vzájomný vzťah.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 3.1.3 Aktivita: Klasifikácia rôznych typov AI
+    - Type: aktivita
+    - Description: Spoznajte rôzne typy AI a ich vzájomný vzťah.
+    - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Klasifikácia rôznych typov AI
 
