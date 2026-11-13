@@ -1,29 +1,27 @@
 ---
-názov: "3.2.4 Aktivita: Lepšie s umelou inteligenciou?"
-popis: "Experimentujte so strojovým učením a trénovaním programov a spoznajte význam dobre pripravených dátových súborov."
-prispievateľ: 
-  - "Magic Makers"
-  - "Inria"
-  - "S24B"
-  - "Class Code"
-typ: aktivita
+title: "3.2.4 Aktivita: Lepšie s umelou inteligenciou?"
+description: "Experimentujte so strojovým učením a trénovaním programov a spoznajte význam dobre pripravených dátových súborov."
+contributor:  Magic Makers
+              Inria
+              S24B
+              Class'code     
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.4a
-    - Názov: 3.2.4 Lepšie s umelou inteligenciou?
-    - Typ: aktivita
-    - Opis: Experimentujte so strojovým učením a trénovaním programov a spoznajte význam dobre pripravených dátových súborov.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Title: 3.2.4 Aktivita: Lepšie s umelou inteligenciou?
+    - Type: aktivita
+    - Description: Experimentujte so strojovým učením a trénovaním programov a spoznajte význam dobre pripravených dátových súborov.
+    - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
+    - Authors:
         - AI4T 
         - Magic Makers
         - Inria
         - S24B
-        - Class Code
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
-
+        - Class'code
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Aktivita: Lepšie s umelou inteligenciou?
 Fungovanie strojového učenia a trénovania programov najlepšie pochopíme, keď sa pozrieme na to, ako správne pripraviť dátový súbor.
 
