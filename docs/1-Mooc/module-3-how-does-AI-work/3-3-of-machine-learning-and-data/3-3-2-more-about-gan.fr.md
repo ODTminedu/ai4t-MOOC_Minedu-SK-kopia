@@ -1,20 +1,20 @@
 ---
-názov: "3.3.2 Generatívne adversariálne siete (GAN)"
-popis: "Ďalšie informácie o sieťach GAN"
-prispievateľ: "Mooc IAI"
+title: "3.3.2 Generatívne adversariálne siete (GAN)"
+description: "Ďalšie informácie o sieťach GAN"
+contributor:  Mooc IAI
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.3.2t
-    - Názov: 3.3.2 Generatívne adversariálne siete (GAN)
-    - Typ: text
-    - Opis: Ďalšie informácie o sieťach GAN
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.3.2 Generatívne adversariálne siete (GAN)
+    - Type: text
+    - Description: Ďalšie informácie o sieťach GAN
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
         - Mooc IAI
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Generatívne adversariálne siete (GAN)
 Generatívne adversariálne siete stoja na pomedzí učenia bez dohľadu a učenia s dohľadom (pri ktorom poskytujeme vstupné dáta so známym požadovaným výstupom, čo nám pomáha odhadnúť vzťah medzi vstupom aj mimo tréningových vzoriek).
 
