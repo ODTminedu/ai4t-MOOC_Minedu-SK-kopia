@@ -1,18 +1,18 @@
 ---
-názov: 4.1.7 Rozhodovanie s pomocou AI v medicíne a práve
-opis: Objavte oblasti mimo vzdelávania, v ktorých AI systémy už zásadne zmenili spôsob prijímania rozhodnutí.
+title: "4.1.7 Rozhodovanie s pomocou AI v medicíne a práve"
+description: Objavte oblasti mimo vzdelávania, v ktorých AI systémy už zásadne zmenili spôsob prijímania rozhodnutí.
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.7t
-    - Názov: Rozhodovanie s pomocou AI v medicíne a práve
-    - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a of učiteľov 
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.1.7 Rozhodovanie s pomocou AI v medicíne a práve
+    - Type: text
+    - Description: Objavte oblasti mimo vzdelávania, v ktorých AI systémy už zásadne zmenili spôsob prijímania rozhodnutí.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Rozhodovanie s pomocou AI v medicíne a práve
 
 Pokiaľ ide o pomoc pri rozhodovaní, dve oblasti už majú bohatú históriu využívania umelej inteligencie: medicína a právo.  
