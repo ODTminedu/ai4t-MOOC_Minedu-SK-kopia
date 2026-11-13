@@ -1,6 +1,6 @@
 ---
 title: "2.1.1 Video: Kto sa bojí umelej inteligencie?"
-description: Úvod k videu: Kto sa bojí umelej inteligencie?
+description: "Úvod k videu: Kto sa bojí umelej inteligencie?"
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
 licence: CC BY-SA 2.0
