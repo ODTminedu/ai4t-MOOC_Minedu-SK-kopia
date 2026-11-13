@@ -1,18 +1,18 @@
 ---
-názov: "4.1.4 Riziká rozhodovania s pomocou AI"
-popis: "Klasifikácia rizík spojených s používaním AI systémov pri rozhodovaní."
+title: "4.1.4 Riziká rozhodovania s pomocou AI"
+description: "Klasifikácia rizík spojených s používaním AI systémov pri rozhodovaní."
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.4t
-    - Názov: 4.1.4 Riziká rozhodovania s pomocou AI
-    - Typ: text
-    - Opis: Klasifikácia rizík spojených s používaním AI systémov pri rozhodovaní.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 4.1.4 Riziká rozhodovania s pomocou AI
+    - Type: text
+    - Description: Klasifikácia rizík spojených s používaním AI systémov pri rozhodovaní.
+    - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Riziká spojené s používaním AI systémov pri rozhodovaní
 
 ## 4 úrovne rizika pri používaní umelej inteligencie
