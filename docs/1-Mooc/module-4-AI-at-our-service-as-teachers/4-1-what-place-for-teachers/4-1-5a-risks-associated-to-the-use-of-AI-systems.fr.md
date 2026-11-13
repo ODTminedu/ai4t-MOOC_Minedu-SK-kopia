@@ -1,19 +1,18 @@
 ---
-názov: "4.1.5 Aktivita: Dôveryhodná umelá inteligencia "
-opis: Čo je dôveryhodná umelá inteligencia? 7 požiadaviek na AI systémy
-typ: aktivita
+title: "4.1.5 Aktivita: Dôveryhodná umelá inteligencia"
+description: Čo je dôveryhodná umelá inteligencia? 7 požiadaviek na AI systémy
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.5a
-    - Názov: 4.1.5 Aktivita: Dôveryhodná umelá inteligencia 
-    - Typ: aktivita
-    - Opis: Čo je dôveryhodná AI? 7 požiadaviek na systémy AI
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.1.5 Aktivita: Dôveryhodná umelá inteligencia
+    - Type: aktivita
+    - Description: Čo je dôveryhodná umelá inteligencia? 7 požiadaviek na AI systémy
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: 7 kľúčových požiadaviek dôveryhodnej umelej inteligencie
 
