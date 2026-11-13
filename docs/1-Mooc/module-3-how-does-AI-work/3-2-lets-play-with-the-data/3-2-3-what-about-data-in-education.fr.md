@@ -1,18 +1,18 @@
 ---
-názov: "3.2.3 Aká je úloha dát vo vzdelávaní?"
-popis: "Identifikujte úlohu dát v AI vzdelávacích nástrojoch."
+title: "3.2.3 Aká je úloha dát vo vzdelávaní?"
+description: "Identifikujte úlohu dát v AI vzdelávacích nástrojoch."
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.3t
-    - Title:
-    - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Title: 3.2.3 Aká je úloha dát vo vzdelávaní?
+    - Type: text
+    - Description: Identifikujte úlohu dát v AI vzdelávacích nástrojoch.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Aká je úloha dát vo vzdelávaní?
 Ak chceme preskúmať úlohu dát vo vzdelávaní, môžeme sa pozrieť na príklad personalizovaného vzdelávania. Práve to by totiž malo byť jednou z hlavných výhod AI služieb vo vzdelávaní:[^1]
 
