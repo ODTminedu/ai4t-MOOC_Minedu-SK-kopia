@@ -1,19 +1,18 @@
 ---
-názov: "2.2.3 Aktivita: Trocha histórie"
-popis: "Kvíz o dejinách umelej inteligencie"
-typ: aktivita
+title: "2.2.3 Aktivita: Trocha histórie"
+description: "Kvíz o dejinách umelej inteligencie"
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.2.3a
-    - Názov: 2.2.3 Aktivita: Trocha histórie
-    - Typ: činnosť
-    - Opis: Kvíz o dejinách umelej inteligencie
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 2.2.3 Aktivita: Trocha histórie
+    - Type: aktivita
+    - Description: Kvíz o dejinách umelej inteligencie
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Trocha histórie
  Na záver tejto lekcie si pár otázkami otestujete svoje znalosti o dejinách umelej inteligencie.
