@@ -1,26 +1,24 @@
 ---
-názov: "2.2.4 Aktivita: Pôvod AI technológií"
-popis: "Pôvod troch využití umelej inteligencie: prirodzené rozhrania, rozpoznávanie obrazu a autonómne auto."
-prispievateľ: 
-  - "Nicolas, Rougier - Inria"
-  - "Daniela, Hau - SCRIPT / MENJE"
-  - "Claude, Reuters - SCRIPT / MENJE"
-typ: aktivita
+title: "2.2.4 Aktivita: Pôvod AI technológií"
+description: "Pôvod troch využití umelej inteligencie: prirodzené rozhrania, rozpoznávanie obrazu a autonómne auto."
+contributor:  Nicolas, Rougier -  Inria
+              Daniela, Hau - SCRIPT / MENJE
+              Claude, Reuters - SCRIPT / MENJE
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M2.2.4a
-    - Názov: 2.2.4 Aktivita: Pôvod AI technológií
-    - Typ: aktivita
-    - Opis: Pôvod troch využití umelej inteligencie: prirodzené rozhrania, rozpoznávanie obrazu a autonómne auto.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori:
+    - Title: 2.2.4 Aktivita: Pôvod AI technológií
+    - Type: aktivita
+    - Description: Pôvod troch využití umelej inteligencie: prirodzené rozhrania, rozpoznávanie obrazu a autonómne auto.
+    - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
+    - Authors:
         - AI4T 
-        - Nicolas, Rougier - Inria
+        - Nicolas, Rougier -  Inria
         - Daniela, Hau - SCRIPT / MENJE
         - Claude, Reuters - SCRIPT / MENJE
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Pôvod troch AI technológií
 
