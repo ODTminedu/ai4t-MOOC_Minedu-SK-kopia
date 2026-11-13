@@ -1,24 +1,23 @@
 ---
-názov: "3.1.6 Šablóna na charakterizovanie umelej inteligencie"
-popis: "Získajte základnú predstavu o charakteristikách AI"
-prispievateľ: 
-  - "Jiajun Pan"
-  - "Azim Roussanaly"
-  - "Anne Boyer"
+title: "3.1.6 Šablóna na charakterizovanie umelej inteligencie"
+description: Získajte základnú predstavu o charakteristikách AI
+contributor:  Jiajun Pan
+              Azim Roussanaly
+              Anne Boyer
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.1.6t
-    - Názov: 3.1.6 Šablóna na charakterizovanie umelej inteligencie
-    - Typ: text
-    - Opis: Získajte základnu predstavu o charakteristikách AI
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
+    - Title: "3.1.6 Šablóna na charakterizovanie umelej inteligencie"
+    - Type: text
+    - Description: Získajte základnú predstavu o charakteristikách AI
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
         - Jiajun Pan
         - Azim Roussanaly
         - Anne Boyer
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 
 # Šablóna na charakterizovanie umelej inteligencie
