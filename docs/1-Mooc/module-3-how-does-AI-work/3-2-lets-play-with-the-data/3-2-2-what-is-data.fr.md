@@ -1,20 +1,20 @@
 ---
-názov: "3.2.2 Čo sú to dáta?"
-popis: "Základné informácie o tom, čo sú to dáta a ako sa využívajú pri umelej inteligencii."
-prispievateľ: "Laurent Romary - Inria"
+title: "3.2.2 Čo sú to dáta?"
+description: Základné informácie o tom, čo sú to dáta a ako sa využívajú pri umelej inteligencii.
+contributor: Laurent Romary - Inria
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.2t
-    - Názov: 3.2.2 Čo sú to údaje?
-    - Typ: text
-    - Opis: Základné informácie o tom, čo sú to dáta a ako sa využívajú pri umelej inteligencii.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
+    - Title: 3.2.2 Čo sú to dáta?
+    - Type: text
+    - Description: Základné informácie o tom, čo sú to dáta a ako sa využívajú pri umelej inteligencii.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
+        - AI4T 
         - Laurent Romary - Inria
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+	
 # Čo sú to dáta?
 
 ## Úloha dát v AI systémoch
