@@ -1,19 +1,18 @@
 ---
-názov: "3.3.4 Čo je zdrojom rizík?"
-opis: Identifikujte rôzne typy rizík
+title: "3.3.4 Čo je zdrojom rizík?"
+description: Identifikujte rôzne typy rizík
 ---
-??? info "Metadáta"
-    - ID: EU.AI4T.O1.M3.3.3t
-    - Názov: 3.3.3 Čo je zdrojom rizík?
-    - Typ: text
-    - Opis: Identifikujte rôzne typy rizík
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+??? info "Metadata"
+    - Id: EU.AI4T.O1.M3.3.3t
+    - Title: 3.3.3 Čo je zdrojom rizík?
+    - Type: text
+    - Description: Identifikujte rôzne typy rizík
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Čo je zdrojom rizík?
 Výskumná služba Európskeho parlamentu (EPRS) vo svojej štúdii o umelej inteligencii[^1] uviedla: *„Je dôležité poznamenať, že AI algoritmy nemôžu byť objektívne, pretože rovnako ako ľudia si počas svojho tréningu osvojujú spôsob, ako dávať zmysel videným veciam, a tento svoj ‚svetonázor‘ využívajú na kategorizáciu nových situácií, s ktorými sa stretávajú.“*
 
