@@ -1,19 +1,18 @@
 ---
-názov: "4.1.3 Aktivita: Rozhodovanie s pomocou AI"
-popis: "Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovať."
-typ: aktivita
+title: "4.1.3 Aktivita: Rozhodovanie s pomocou AI"
+description: "Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovať."
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.3a
-    - Názov: 4.1.3 Aktivita: Rozhodovanie s pomocou AI
-    - Typ: aktivita
-    - Opis: Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovaťť.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 4.1.3 Aktivita: Rozhodovanie s pomocou AI
+    - Type: aktivita
+    - Description: Ako nástroje na podporu rozhodovania menia postupy, ako ich môžu zlepšiť a prečo je potrebné kriticky ich analyzovaťť.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 # Aktivita: Rozhodovanie s pomocou AI vo vzdelávaní
 
