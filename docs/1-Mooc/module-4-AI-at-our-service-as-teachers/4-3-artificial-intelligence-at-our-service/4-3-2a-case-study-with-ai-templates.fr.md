@@ -1,29 +1,27 @@
 ---
-názov: "4.3.2 Aktivita: Prípadová štúdia služby Duolingo"
-popis: "Použitie AI šablóny na analýzu nástroja Duolingo for Schools."
-prispievateľ: |
-  Jiajun Pan - Loria
-  Azim Roussanaly - Loria
-  Anne Boyer - Loria
-  AI4T
-typ: aktivita
+title: "4.3.2 Aktivita: Prípadová štúdia služby Duolingo"
+description: "Použitie AI šablóny na analýzu nástroja Duolingo for Schools."
+contributor:  Jiajun, Pan - Loria
+              Azim, Roussanaly - Loria
+              Anne, Boyer - Loria
+              AI4T
+type: aktivita
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M4.3.2a
-    - Názov: 4.3.2 Aktivita: Prípadová štúdia služby Duolingo
-    - Typ: aktivita
-    - Opis: Použitie AI šablóny na analýzu nástroja Duolingo for Schools
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
-        - AI4T
+    - Title: 4.3.2 Aktivita: Prípadová štúdia služby Duolingo
+    - Type: aktivita
+    - Description: Použitie AI šablóny na analýzu nástroja Duolingo for Schools.
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
+        - AI4T 
         - Jiajun, Pan - Loria
         - Azim, Roussanaly - Loria
         - Anne, Boyer - Loria
         - AI4T
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
-
-
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
+    
 # Aktivita: Prípadová štúdia s využitím AI šablóny na analýzu nástroja Duolingo for Schools
 
 Konzorcium AI4T identifikovalo službu *Duolingo for Schools* je relevantný AI nástroj, s ktorým môžu učitelia v rámci projektu experimentovať.
