@@ -1,22 +1,22 @@
 ---
-názov: "3.2.1 Video: Strojové učenie a dáta"
-popis: "Video špeciálne venované strojovému učeniu s dôrazom na učenie s dohľadom, posilňované učenie, neurónové siete a hlboké učenie."
-prispievateľ: "MOOC Intelligence Artificielle...avec Intelligence"
-typ: video
-licencia: "CC BY-SA 2.0"
+title: "3.2.1 Video: Strojové učenie a dáta"
+description: "Video špeciálne venované strojovému učeniu s dôrazom na učenie s dohľadom, posilňované učenie, neurónové siete a hlboké učenie."  
+contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
+type: video
+licence: CC BY-SA 2.0
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.1v
-    - Názov: 3.2.1 Video: Strojové učenie a dáta
-    - Typ: video
-    - Popis: Video špeciálne venované strojovému učeniu s dôrazom na učenie s dohľadom, posilňované učenie, neurónové siete a hlboké učenie.
-    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
-    - Autori:
+    - Title: 3.2.1 Video: Strojové učenie a dáta
+    - Type: video
+    - Description: Video špeciálne venované strojovému učeniu s dôrazom na učenie s dohľadom, posilňované učenie, neurónové siete a hlboké učenie.
+    - Subject: Umelá inteligencia pre učiteľov a od učiteľov
+    - Authors:
         - AI4T 
-        - MOOC Intelligence Artificielle...avec Intelligence
-    - Licencia: CC BY-SA 2.0
-    - Dátum: 2022-11-15
-
+        - Mooc "Intelligence Artificielle...avec Intelligence"
+    - Licence: CC BY-SA 2.0
+    - Date: 2022-11-15
+    
 # Video: Strojové učenie a dáta
 Toto video sa konkrétnejšie zameriava na strojové učenie. Opäť ide o všeobecné video s humorným tónom, ktoré môžete použiť v triede.
 
