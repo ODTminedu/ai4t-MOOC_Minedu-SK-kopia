@@ -18,8 +18,8 @@ type: aktivita
 
 Umelá inteligencia má potenciál poskytnúť učiteľom a žiakom nástroje, ktoré uľahčujú učenie a poskytujú pri ňom pomoc a podporu.
 
-**Používate už niektoré z týchto nástrojov vo svojej práci?
-Kliknutím na nasledujúci obrázok to zistíte!
+**Používate už niektoré z týchto nástrojov vo svojej práci?**
+_Kliknutím na nasledujúci obrázok to zistíte!_
 
 <center><iframe width="860" height="540" src="1-2-1-activity-AI-based-tools-FR/story.html" frameborder="0" allowfullscreen></iframe></center>
 
