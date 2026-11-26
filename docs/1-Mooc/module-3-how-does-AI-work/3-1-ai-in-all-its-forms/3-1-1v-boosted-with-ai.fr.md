@@ -1,5 +1,5 @@
 ---
-title: "3.1.1 Video: Posilnené umelou inteligenciou"
+title: "3.1.1 Video: Posilnené AI"
 description: "Prehľad možností využitia umelej inteligencie"
 type: video
 ---
