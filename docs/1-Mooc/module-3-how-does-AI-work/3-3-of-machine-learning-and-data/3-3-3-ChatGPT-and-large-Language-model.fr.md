@@ -31,7 +31,7 @@ Pre lepšie pochopenie jazykových modelov pripravil pedagogický tím AI4T sér
 ### 1. diel: Ako fungujú jazykové modely?
 
 **Ako funguje ChatGPT? Vysvetlené za menej ako 5 minút**  
-Zhrnutie: Úvodné video o jazykových modeloch, ktoré sú základom nástrojov ako ChatGPT a Bard. Je určené širokému publiku, najmä študentom a učiteľom stredných škôl.
+Zhrnutie: Úvodné video o jazykových modeloch, ktoré sú základom nástrojov ako ChatGPT a Bard. Je určené širokému publiku, najmä žiakom a učiteľom stredných škôl.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/K8gOvC8gvB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
