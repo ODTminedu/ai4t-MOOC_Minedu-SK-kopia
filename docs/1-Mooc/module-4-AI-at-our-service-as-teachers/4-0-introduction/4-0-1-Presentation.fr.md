@@ -16,7 +16,7 @@ description: Predstavenie 4. modulu
 
 # Predstavenie 4. modulu
 
-**Modul č. 4: Umelá inteligencia v službách učiteľov** má nasledujúce ciele:
+**Modul č. 4: Umelá inteligencia v službách učiteľa?** má nasledujúce ciele:
 
 - pochopiť, ako môžu nástroje na podporu rozhodovania zmeniť alebo zlepšiť postupy učiteľov, a uvedomiť si, prečo je potrebné sa nad nimi kriticky zamýšľať;
 - identifikovať riziká spojené s používaním AI systémov pri rozhodovaní;
