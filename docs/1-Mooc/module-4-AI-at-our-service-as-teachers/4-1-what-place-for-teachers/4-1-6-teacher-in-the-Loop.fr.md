@@ -22,7 +22,7 @@ Spoločné výskumné centrum (JRC) vo svojej správe[^1] navrhuje nasledovné: 
 
 - **Učiteľ je súčasťou rozhodovania** (teacher-in-the-loop): Predstavte si aplikáciu, ktorá autonómne vyhodnocuje dôležité skúšky alebo diagnostikuje poruchu učenia. V takýchto situáciách by nesprávne rozhodnutie mohlo konečnému používateľovi spôsobiť vážnu ujmu (napr. stratu príležitosti, nespravodlivé zaobchádzanie). Pri rozhodnutiach alebo aplikáciách, ktoré by mohli spôsobiť škodu alebo mať pre koncového používateľa vážne dôsledky, by mal systém pedagógovi najprv odporučiť rozhodnutie s dostatkom transparentných informácií, aby ho mohol skontrolovať – a až potom sa rozhodnúť, či konečné rozhodnutie vykoná alebo nie (obrázok č. 1, vpravo hore).
 
-- **Učiteľ dohliada na rozhodovanie** (teacher-over-the-loop): Existujú aj iné typy rozhodnutí, pri ktorých stačí, ak si pedagóg udržiava prehľad o rozhodnutiach prijatých aplikáciou. Môže to byť napríklad prípad, keď adaptívna vzdelávacia platforma odporučí študentovi učebnú aktivitu na dosiahnutie zamýšľaného výsledku vzdelávania (obrázok č. 1, vpravo dole).
+- **Učiteľ dohliada na rozhodovanie** (teacher-over-the-loop): Existujú aj iné typy rozhodnutí, pri ktorých stačí, ak si pedagóg udržiava prehľad o rozhodnutiach prijatých aplikáciou. Môže to byť napríklad prípad, keď adaptívna vzdelávacia platforma odporučí žiakovi učebnú aktivitu na dosiahnutie zamýšľaného výsledku vzdelávania (obrázok č. 1, vpravo dole).
 
 - **Učiteľ nie je súčasťou rozhodovania** (teacher-out-of-the-loop): V situácii, keď je pravdepodobnosť a závažnosť škody spôsobenej (napríklad) vzdelávacou aplikáciou používanou mimo školy nízka, monitorovanie zo strany pedagóga nie je potrebné (obrázok č. 1, vľavo dole).
 
