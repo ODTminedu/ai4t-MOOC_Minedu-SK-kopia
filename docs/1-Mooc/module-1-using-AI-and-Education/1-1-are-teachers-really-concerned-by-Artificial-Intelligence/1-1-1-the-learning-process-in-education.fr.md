@@ -1,6 +1,6 @@
 ---
 title: "1.1.1 Video: Proces učenia sa vo vzdelávaní"
-description: Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní
+description: "Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní"
 contributor:  Anne Boyer - Loria
               Armelle Brun - Loria
               Azim Roussanaly - Loria
