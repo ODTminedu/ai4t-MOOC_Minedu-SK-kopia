@@ -26,7 +26,7 @@ Ciele školenia možno rozdeliť na niekoľko úrovní:
 
 - **experimentovanie a rozumné využívanie** digitálnych vzdelávacích zdrojov s AI službami;
 
-- **prispievanie k takému rozvíjaniu digitálnych zručností** u všetkých učiteľov a študentov, ktoré zahŕňa etický rozmer presahujúci technické alebo regulačné aspekty umelej inteligencie.
+- **prispievanie k takému rozvíjaniu digitálnych zručností** u všetkých učiteľov a žiakov, ktoré zahŕňa etický rozmer presahujúci technické alebo regulačné aspekty umelej inteligencie.
 
 Prvá úroveň – **demystifikácia a pochopenie AI** – vo vyčlenenej oblasti vzdelávania má za cieľ prekonať nadmerne nadšené či znepokojené pohľady na umelú inteligenciu. Chceme sa vyhnúť slepému vyzdvihovaniu potenciálu umelej inteligencie či, naopak, tomu, aby sme sa jej používania vzdali ešte predtým, ako budeme mať možnosť vyskúšať si ju a získať spätnú väzbu.
 
@@ -38,7 +38,7 @@ Druhá úroveň – **experimentovanie a rozumné využívanie AI** – sa zame
 
 Zámerom je ponúknuť učiteľom možnosť identifikovať, otestovať a vyhodnotiť prínosy použitého zdroja. Táto úroveň im má tiež ukázať kontexty a situácie, v ktorých je daný výučbový zdroj relevantný a v ktorých nie.
 
-Ďalším cieľom je posúdiť integráciu AI nástrojov do širšieho a komplexnejšieho rámca vzdelávacej dráhy študenta. Ako všetci vieme, doplnenie mikrovzdelávania neprebieha automaticky. Používanie AI na špecializované učenie je užitočné. Umožňuje napríklad analyzovať stopy učenia sa na pomerne jednoduchých predmetoch alebo optimálne využívať krivky zabúdania, ale nenahrádza každodenný kontakt s učiteľmi ani ocenenie z ich strany, čo sú prvky, ktoré pri dlhodobom učení tiež zohrávajú úlohu.
+Ďalším cieľom je posúdiť integráciu AI nástrojov do širšieho a komplexnejšieho rámca vzdelávacej dráhy žiaka. Ako všetci vieme, doplnenie mikrovzdelávania neprebieha automaticky. Používanie AI na špecializované učenie je užitočné. Umožňuje napríklad analyzovať stopy učenia sa na pomerne jednoduchých predmetoch alebo optimálne využívať krivky zabúdania, ale nenahrádza každodenný kontakt s učiteľmi ani ocenenie z ich strany, čo sú prvky, ktoré pri dlhodobom učení tiež zohrávajú úlohu.
 
 Tretia úroveň nabáda účastníkov, aby sa nezameriavali iba na technické otázky či predmetové učenie, ale aby sa **delili o získané poznatky v rámci školy so svojimi kolegami a vedením** a aby sa podieľali na napĺňaní poslania školy s dôrazom na spolupatričnosť, rovnosť a rešpektovanie ľudských práv.
 
