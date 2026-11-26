@@ -1,5 +1,5 @@
 ---
-title: "3.1.2 Aký typ umelej inteligencie?"
+title: "3.1.2 Aký typ AI?"
 description: "Získajte základné pochopenie typov AI"
 ---
 ??? info "Metadata"
