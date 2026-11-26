@@ -1,5 +1,5 @@
 ---
-title: "4.3.1 Video: Umelá inteligencia v našich službách?"
+title: "4.3.1 Video: AI v službách učiteľa?"
 description: "Definujeme vysvetliteľnosť v oblasti AI a výzvy, ktoré prináša."
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
@@ -7,7 +7,7 @@ licence: CC BY-SA 2.0
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M4.3.1v
-    - Title: 4.3.1 Video: Umelá inteligencia v našich službách?
+    - Title: 4.3.1 Video: AI v službách učiteľa?
     - Type: video
     - Description: Definujeme vysvetliteľnosť v oblasti AI a výzvy, ktoré prináša.
     - Subject: Umelá inteligencia pre učiteľov a od učiteľov
