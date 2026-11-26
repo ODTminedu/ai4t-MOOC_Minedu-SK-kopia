@@ -1,5 +1,5 @@
 ---
-title: "4.1.5 Aktivita: Dôveryhodná umelá inteligencia"
+title: "4.1.5 Aktivita: Dôveryhodná AI"
 description: Čo je dôveryhodná umelá inteligencia? 7 požiadaviek na AI systémy
 type: aktivita
 ---
