@@ -1,5 +1,5 @@
 ---
-title: "1.1.2 Video: Prechádzka svetom AI – ako viesť žiakov k úspechu cez pozorovanie procesov učenia"
+title: "1.1.2 Video: Ako viesť žiakov k úspechu"
 description: Video 2 Prechádzka svetom AI – ako viesť žiakov k úspechu cez pozorovanie procesov učenias
 contributor:  Anne, Boyer - Loria
               Armelle, Brun - Loria
