@@ -1,5 +1,5 @@
 ---
-title: "3.1.5 Aktivita: Identifikácia symbolickej umelej inteligencie"
+title: "3.1.5 Aktivita: Identifikácia symbolickej AI"
 description: Čo je a čo nie je symbolická umelá inteligencia?
 type: aktivita
 ---
