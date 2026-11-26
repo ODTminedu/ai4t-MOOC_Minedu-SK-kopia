@@ -1,5 +1,5 @@
 ---
-title: "2.2.1 Video: Čo je to umelá inteligencia?"
+title: "2.2.1 Video: Čo je to AI?"
 description: "Úvod k videu: Čo je to umelá inteligencia?"
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
