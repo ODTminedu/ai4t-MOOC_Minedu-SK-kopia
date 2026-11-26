@@ -43,7 +43,7 @@ V tomto kurze je 5 typov obsahu:
 
 - Text: Slúži na prezentovanie krátkych zhrnutí založených na vedeckej literatúre a odborných správach.
 - Kvíz: Ide o krátke otázky (výber z viacerých možností, spájanie) na konci textov na ukotvenie prezentovaných konceptov.
-- Video: Udeľuje slovo propagátorovi projektu, prípadne umožňuje objavovať výzvy umelej inteligencie s cieľom podporovať študentov. Niektoré videá sú prevzaté z francúzskeho MOOC kurzu _Intelligence artificielle avec Intelligence_ (Umelá inteligencia s inteligenciou) a môžu sa použiť priamo na hodine.
+- Video: Udeľuje slovo propagátorovi projektu, prípadne umožňuje objavovať výzvy umelej inteligencie s cieľom podporovať žiakov. Niektoré videá sú prevzaté z francúzskeho MOOC kurzu _Intelligence artificielle avec Intelligence_ (Umelá inteligencia s inteligenciou) a môžu sa použiť priamo na hodine.
 - Aktivita: Slúži na podporu sebareflexie, upevnenie vedomostí o míľnikoch umelej inteligencie alebo na využitie prečítaných či inak získaných poznatkov v konkrétnych situáciách.
 - Tutoriál: Slúži na experimentovanie s tým, ako sa program "učí", a ukazuje úlohu dát v strojovom učení.
 
