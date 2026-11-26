@@ -1,5 +1,5 @@
 ---
-title: "2.1.2 Aká je definícia umelej inteligencie?"
+title: "2.1.2 Aká je definícia AI?"
 description: Uveďte rôzne definície umelej inteligencie a jej oblastí
 ---
 ??? info "Metadata"
