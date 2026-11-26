@@ -1,5 +1,5 @@
 ---
-title: "4.2.1 Ste pripravení dôverovať umelej inteligencii?"
+title: "4.2.1 Ste pripravení dôverovať AI?"
 description: "Pochopenie vplyvu používania AI nástrojov na rozhodovanie a potrebné bezpečnostné opatrenia pri ich využívaní."
 contributor:  AI4T
               Ikram Chraibi Kaadoud, AI Researcher
@@ -21,11 +21,11 @@ contributor:  AI4T
 
 Nie všetky rozhodnutia prijaté pomocou AI nástrojov majú rovnaký vplyv.
 
-Pri niektorých automatizovaných rozhodnutiach možno dlhodobé riziko a škodu *považovať* za pomerne nízke – napríklad keď aplikácia na riešenie matematických úloh navrhne študentovi kroky riešenia.
+Pri niektorých automatizovaných rozhodnutiach možno dlhodobé riziko a škodu *považovať* za pomerne nízke – napríklad keď aplikácia na riešenie matematických úloh navrhne žiakovi kroky riešenia.
 
 Iné rozhodnutia, naopak, predstavujú potenciálnu škodu alebo riziko.
 
-V takýchto prípadoch je potrebné prijať maximálne možné preventívne opatrenia. V prvom rade musí byť rozhodnutie vysvetliteľné: prečo sa toto rozhodnutie navrhuje pre túto konkrétnu situáciu, pre tohto konkrétneho študenta alebo skupinu študentov?
+V takýchto prípadoch je potrebné prijať maximálne možné preventívne opatrenia. V prvom rade musí byť rozhodnutie vysvetliteľné: prečo sa toto rozhodnutie navrhuje pre túto konkrétnu situáciu, pre tohto konkrétneho žiaka alebo skupinu žiakov?
 
 Pozrime sa na niektoré kritériá používané na „hodnotenie“ rozhodovacieho procesu AI systémov.
 
