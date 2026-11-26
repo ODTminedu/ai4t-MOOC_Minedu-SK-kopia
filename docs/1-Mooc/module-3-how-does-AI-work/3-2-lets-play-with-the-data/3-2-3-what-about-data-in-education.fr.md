@@ -1,34 +1,34 @@
 ---
-title: "3.2.3 Aká je úloha dát vo vzdelávaní?"
+title: "3.2.3 Aká je úloha údajov vo vzdelávaní?"
 description: "Identifikujte úlohu dát v AI vzdelávacích nástrojoch."
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.3t
-    - Title: 3.2.3 Aká je úloha dát vo vzdelávaní?
+    - Title: 3.2.3 Aká je úloha údajov vo vzdelávaní?
     - Type: text
-    - Description: Identifikujte úlohu dát v AI vzdelávacích nástrojoch.
+    - Description: Identifikujte úlohu údajov v AI vzdelávacích nástrojoch.
     - Subject: Umelá inteligencia pre učiteľov a od učiteľov
     - Authors:
         - AI4T 
     - Licence: CC BY 4.0
     - Date: 2022-11-15
     
-# Aká je úloha dát vo vzdelávaní?
-Ak chceme preskúmať úlohu dát vo vzdelávaní, môžeme sa pozrieť na príklad personalizovaného vzdelávania. Práve to by totiž malo byť jednou z hlavných výhod AI služieb vo vzdelávaní:[^1]
+# Aká je úloha údajov vo vzdelávaní?
+Ak chceme preskúmať úlohu údajov vo vzdelávaní, môžeme sa pozrieť na príklad personalizovaného vzdelávania. Práve to by totiž malo byť jednou z hlavných výhod AI služieb vo vzdelávaní:[^1]
 
-*„AI bude zohrávať kľúčovú úlohu pri realizácii vízie personalizovaného vzdelávania (teda schopnosti prispôsobiť podanie, obsah a tempo vzdelávania špecifickým potrebám jednotlivých študentov). Práve vďaka schopnosti prijímať dáta z viacerých zdrojov, skúmať ich a získavať z nich poznatky (pomocou nástrojov, ako je prediktívna analýza či strojové učenie) je umelá inteligencia takým vzrušujúcim pokrokom vo vzdelávacích technológiách. Preto bude jej používanie transformatívne pre všetky zainteresované strany, od jednotlivých študentov až po ministerstvá školstva“.*
+*„AI bude zohrávať kľúčovú úlohu pri realizácii vízie personalizovaného vzdelávania (teda schopnosti prispôsobiť podanie, obsah a tempo vzdelávania špecifickým potrebám jednotlivých žiakov). Práve vďaka schopnosti prijímať údaje z viacerých zdrojov, skúmať ich a získavať z nich poznatky (pomocou nástrojov, ako je prediktívna analýza či strojové učenie) je umelá inteligencia takým vzrušujúcim pokrokom vo vzdelávacích technológiách. Preto bude jej používanie transformatívne pre všetky zainteresované strany, od jednotlivých žiakov až po ministerstvá školstva“.*
 
-Zavádzanie takýchto personalizovaných vzdelávacích systémov založených na umelej inteligencii si vyžaduje zhromažďovanie, zobrazovanie a analýzu rôznych typov kvantitatívnych a kvalitatívnych údajov (ako sú hodnotenia a záznamy o štúdiu, informácie o záujmoch, zdraví či správaní, prípadne demografické údaje ako vek, pohlavie či krajina). Vďaka analyzovaniu týchto dát dokážu AI vzdelávacie nástroje vytvárať odporúčania, ktoré študentom pomáhajú zlepšiť si vzdelávací proces aj študijné výsledky.
+Zavádzanie takýchto personalizovaných vzdelávacích systémov založených na umelej inteligencii si vyžaduje zhromažďovanie, zobrazovanie a analýzu rôznych typov kvantitatívnych a kvalitatívnych údajov (ako sú hodnotenia a záznamy o štúdiu, informácie o záujmoch, zdraví či správaní, prípadne demografické údaje ako vek, pohlavie či krajina). Vďaka analyzovaniu týchto údajov dokážu AI vzdelávacie nástroje vytvárať odporúčania, ktoré žiakom pomáhajú zlepšiť si vzdelávací proces aj študijné výsledky.
 
-Na výpočet týchto personalizovaných odporúčaní využíva vzdelávací softvér počítačové metódy autonómneho rozhodovania. Využíva modely postavené na pedagogických poznatkoch, znalosti obsahu a profiloch študentov. Na základe týchto modelov potom môže algoritmus určiť, aké kroky treba podniknúť v ďalšej fáze učenia.
+Na výpočet týchto personalizovaných odporúčaní využíva vzdelávací softvér počítačové metódy autonómneho rozhodovania. Využíva modely postavené na pedagogických poznatkoch, znalosti obsahu a profiloch žiakov. Na základe týchto modelov potom môže algoritmus určiť, aké kroky treba podniknúť v ďalšej fáze učenia.
 
-V správe Spoločného výskumného centra (JRC) o novovznikajúcich technológiách a učiteľskej profesii sa uvádza niekoľko obáv, ktoré sa týkajú dát vo vzdelávaní a aplikácií s rozhodovacou právomocou:[^2]
+V správe Spoločného výskumného centra (JRC) o novovznikajúcich technológiách a učiteľskej profesii sa uvádza niekoľko obáv, ktoré sa týkajú údajov vo vzdelávaní a aplikácií s rozhodovacou právomocou:[^2]
 
-*„Aké dáta by aplikácia používala a na aké účely? Ako sú dátové modely zostavené, na akých teoretických konštruktoch sú založené a do akej miery sú rozhodnutia softvéru spätne vysledovateľné (napr. z hľadiska ich vysvetliteľnosti)? Aké hodnoty a predpoklady sa v týchto dátových modeloch odrážajú a kto ich určuje?“*
+*„Aké údaje by aplikácia používala a na aké účely? Ako sú dátové modely zostavené, na akých teoretických konštruktoch sú založené a do akej miery sú rozhodnutia softvéru spätne vysledovateľné (napr. z hľadiska ich vysvetliteľnosti)? Aké hodnoty a predpoklady sa v týchto dátových modeloch odrážajú a kto ich určuje?“*
 
 *„Aké veľké škody by spôsobilo, keby použitie výpočtových metód na autonómne rozhodovanie viedlo k chybnému rozhodnutiu?“*
 
-A z hľadiska rámca všeobecného nariadenia o ochrane údajov (GDPR): *„V kontexte vzdelávania a odbornej prípravy je potrebné zachovať rovnováhu medzi zhromažďovaním digitálnych dát a zasahovaním do osobnej integrity jednotlivcov.“*
+A z hľadiska rámca všeobecného nariadenia o ochrane údajov (GDPR): *„V kontexte vzdelávania a odbornej prípravy je potrebné zachovať rovnováhu medzi zhromažďovaním digitálnych údajov a zasahovaním do osobnej integrity jednotlivcov.“*
 
 [^1]: „AI in Education: Change at the Speed of Learning“. UNESCO IITE Policy Brief. Autor: Steven Duggan. Editorka: Svetlana Knyazeva - ISBN : 978-5-6046449-2-8.
 
