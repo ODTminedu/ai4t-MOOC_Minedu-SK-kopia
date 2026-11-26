@@ -24,40 +24,35 @@ type: aktivita
     
 # Aktivita: Prípadová štúdia s využitím AI šablóny na analýzu nástroja Duolingo for Schools
 
-Konzorcium AI4T identifikovalo službu *Duolingo for Schools* je relevantný AI nástroj, s ktorým môžu učitelia v rámci projektu experimentovať.
+V tejto aktivite použijete šablónu na analýzu nástroja AI z 3. modulu Ako funguje umelá inteligencia? na príklade služby Duolingo for Schools. Na prípadovej štúdii si vyskúšate, ako overiť, či informácie o vzdelávacom nástroji ešte platia, najmä v oblasti žiackych účtov a ochrany údajov.
 
-Ide o aplikáciu na učenie sa jazykov, no otázky, ktoré jej využitie umelej inteligencie vo vzdelávaní je relevantné pre všetky odbory.
+Aktualizácia: Vyplnená šablóna zachytáva stav z januára 2023. Služba Duolingo for Schools sa skončí 31. júla 2027. Nové školské účty ani triedy sa už nedajú vytvárať. Do existujúcej triedy sa žiaci pripájajú cez vlastné účty Duolingo; učiteľ ich už nemôže pridať priamo. Bežná aplikácia Duolingo zostáva dostupná. Na splnenie aktivity sa nemusíte prihlasovať ani vytvárať účet. [Oficiálne oznámenie Duolingo](https://duolingoschools.zendesk.com/hc/en-us/articles/44824545841805-Important-information-regarding-Duolingo-for-Schools)
 
-V priebehu tejto aktivity aplikácia Duolingo for Schools slúži ako prípadová štúdia na otestovanie šablóny na charakteristiku umelej inteligencie, ktorý sme predstavili v 3. module: _Ako funguje umelá inteligencia?_. Služba Duolingo for Schools má dve vlastnosti, vďaka ktorým je vhodná na prípadovú štúdiu:
+## Ako služba fungovala v roku 2022
 
-1. Duolingo zverejňuje množstvo informácií o tom, ako funguje,
-2. Keďže ho používa obrovské množstvo študentov, čelí mnohým otázkam verejnosti, napríklad kvôli obavám o súkromie. Vďaka tomu je ľahšie získať vhľad do apektov, ktoré sa pri iných AI vzdelávacích nástrojoch skúmajú ťažšie (napríklad ochrana údajov).
+Podľa pôvodného blogu Duolingo mohli učitelia v školskom rozhraní vytvárať triedy, zadávať úlohy a sledovať aktivitu žiakov. Tento opis približuje fungovanie služby v čase vzniku prípadovej štúdie.*[^1]
 
-## Duolingo for Schools vlastnými slovami
+## Zdroje k aktivite:
 
-Aplikácia Duolingo for Schools sa na jej anglickom blogu prezentuje nasledovne: *„Duolingo for Schools je ovládací panel priamo v účte, ktorý má učiteľ vytvorený v službe Duolingo. Tento panel mu umožňuje vytvárať triedy, pridávať zadania a sledovať aktivitu študentov. Sme radi, že môžeme spolupracovať s pedagógmi a priniesť do tried svetovú jednotku medzi aplikáciami na vyučovanie jazykov, ktorej funkcie sú navrhnuté tak, aby maximalizovali efektivitu učiteľa a učenie sa študentov.“*[^1]
-
-## Niektoré zdroje, ktoré môžete použiť na analýzu AI funkcií aplikácie Duolingo for Schools:
-
-1. Duolingo for Schools: [https://schools.duolingo.com/](https://schools.duolingo.com/)
-2. Duolingo for Schools – centrum pomoci: [https://duolingoschools.zendesk.com/hc/en-us](https://duolingoschools.zendesk.com/hc/en-us)
-3. Oficiálny web Duolingo: [https://www.duolingo.com/](https://www.duolingo.com/)
-4. Duolingo blog: [https://blog.duolingo.com](https://blog.duolingo.com)
-5. Výskumná stránka Duolingo (vedecké články, zdieľanie dát): [https://research.duolingo.com/](https://research.duolingo.com/)
+1. Oficiálne oznámenie o zmenách v službe Duolingo for Schools: (https://duolingoschools.zendesk.com/hc/en-us/articles/44824545841805-Important-information-regarding-Duolingo-for-Schools)
+2. Duolingo for Schools: [https://schools.duolingo.com/](https://schools.duolingo.com/)
+3. Duolingo for Schools – centrum pomoci: [https://duolingoschools.zendesk.com/hc/en-us](https://duolingoschools.zendesk.com/hc/en-us)
+4. Oficiálny web Duolingo: [https://www.duolingo.com/](https://www.duolingo.com/)
+5. Duolingo blog: [https://blog.duolingo.com](https://blog.duolingo.com)
+6. Výskumná stránka Duolingo (vedecké články, zdieľanie dát): [https://research.duolingo.com/](https://research.duolingo.com/)
 
 Poznámka: Toto sú „oficiálne“ stránky spoločnosti. Niektoré zaujímavé informácie sa však dajú nájsť aj na iných stránkach, preto si pokojne vyhľadajte aj ďalšie zdroje.
 
-**Chceli by ste analyzovať AI funkcie služby Duolingo for Schools?**
-*Kliknutím na nasledujúci obrázok si stiahnite si pripravenú šablónu na charakteristiku umelej inteligencie a vyplňte do nej čo najviac údajov.*
+**Vaša úloha**
+*Otvorte vyplnenú šablónu z januára 2023 a prečítajte si aktuálne oznámenie Duolingo. V šablóne nájdite pasáž o vytváraní žiackych účtov. Napíšte, ako by ste ju upravili, keď sa žiaci do existujúcej triedy pripájajú cez vlastné účty. Uveďte aj jednu otázku o ochrane údajov, na ktorú oznámenie neodpovedá. Stačia dve až tri vety.*
 <a href="Documents/AI4T-Template-Ready-to-use-fr.pdf" target="_blank">
 <figure>
   <img src="Images/Ready-To-Use-AI-Template-FR.jpg" alt="Hotový model na charakterizáciu umelej inteligencie"/>
 </figure></a>
 
-## Príklad vyplnenej šablóny pre Duolingo for Schools.
+## Vyplnená šablóna: stav z januára 2023“.
 
-Tu je príklad vyplnenej šablóny s použitím informácií získaných z vyššie uvedených odkazov a ďalších verejne dostupných online zdrojov.
-Hoci väčšina informácií je ľahko dostupná, niektoré ďalšie charakteristiky sa vypĺňajú ťažko a niekedy ani nie je nemožné ich nájsť.
+Prípadová štúdia zachytáva stav z januára 2023. Postup vytvárania žiackych účtov opísaný v šablóne už neplatí. Pri riešení úlohy použite aj aktuálne oznámenie Duolingo: (https://duolingoschools.zendesk.com/hc/en-us/articles/44824545841805-Important-information-regarding-Duolingo-for-Schools)
 
 <a href="Documents/AI4T-Template-Case-study-Duolingo-fr.pdf" target="_blank">
 <figure>
