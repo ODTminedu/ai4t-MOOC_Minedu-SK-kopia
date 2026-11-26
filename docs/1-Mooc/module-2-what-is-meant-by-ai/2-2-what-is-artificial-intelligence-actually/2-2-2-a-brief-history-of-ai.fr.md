@@ -1,5 +1,5 @@
 ---
-title: 2.2.2 Stručné dejiny umelej inteligencie
+title: "2.2.2 Stručné dejiny AI"
 description: Vysvetlenie pôvodu umelej inteligencie
 contributor:  Nicolas, Rougier - Inria
 ---
