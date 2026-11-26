@@ -1,5 +1,5 @@
 ---
-title: "3.1.6 Šablóna na charakterizovanie umelej inteligencie"
+title: "3.1.6 Šablóna na charakterizovanie AI"
 description: Získajte základnú predstavu o charakteristikách AI
 contributor:  Jiajun Pan
               Azim Roussanaly
