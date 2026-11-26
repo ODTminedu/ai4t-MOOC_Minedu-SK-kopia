@@ -1,5 +1,5 @@
 ---
-title: "3.1.4 Aktivita: Identifikácia digitálnej umelej inteligencie"
+title: "3.1.4 Aktivita: Identifikácia digitálnej AI"
 description: Čo je a čo nie je digitálna umelá inteligencia?
 type: aktivita
 ---
