@@ -1,5 +1,5 @@
 ---
-title: "2.3.1 Aktivita: Tutoriál – Poďme otestovať náš prvý program"
+title: "2.3.1 Aktivita: Tutoriál – Povedali ste AI"
 description: "Tutoriál na objavovanie programov na rozpoznávanie obrazu: ako ich trénovať a ako ich oklamať."
 contributor:   Magic Makers
                 Inria
