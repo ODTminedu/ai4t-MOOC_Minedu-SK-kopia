@@ -1,33 +1,33 @@
 ---
-title: "4.1.6 Učiteľ v slučke"
-description: "Pochopenie modelu „učiteľ v slučke“ a využiť ho ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami."
+title: "4.1.6 Úloha učiteľa pri rozhodovaní s AI"
+description: "Pochopenie úlohy učiteľa pri rozhodovaní s AI a využiť to ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami."
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M4.1.6t
     - Title: 4.1.6 Učiteľ v slučke
     - Type: text
-    - Description: Pochopenie modelu „učiteľ v slučke“ a využiť ho ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami.
+    - Description: Pochopenie  učiteľa pri rozhodovaní s AI a využiť to ako nástroj na podporu prístupu, kde majú používatelia kontrolu nad vzdelávacími AI systémami.
     - Subject: Umelá inteligencia pre učiteľov a od učiteľov
     - Authors:
         - AI4T 
     - Licence: CC BY 4.0
     - Date: 2022-11-15
     
-# Učiteľ v slučke
+# Úloha učiteľa pri rozhodovaní s umelou inteligenciou
 
 V oblasti vzdelávania a odbornej prípravy by *„všetky zainteresované strany mali zvážiť dôsledky toho, keď sa novým technológiám prenechá právomoc prijímať pedagogické rozhodnutia, ktoré by inak robili ľudskí odborníci s primeranými znalosťami pedagogiky a obsahu konkrétneho predmetu.“*[^1]  
-Na to, aby boli AI systémy vo vzdelávaní dôveryhodné, je potrebná náležitá analýza s využitím modelu **učiteľ v slučke**.
+Ak majú byť systémy AI vo vzdelávaní dôveryhodné, je dôležité jasne určiť, akú úlohu má pri rozhodovaní učiteľ, do akej miery má na rozhodovanie systému AI dohliadať a kto nesie zodpovednosť za konečné rozhodnutie. Práve tým sa zaoberá model **teacher-in-the-loop**.
 
-Spoločné výskumné centrum (JRC) vo svojej správe[^1] navrhuje nasledovné: _„Pri vzdelávacích aplikáciách a službách, ktoré sa spoliehajú na autonómne rozhodovanie, možno uvažovať o troch rôznych prístupoch k rozdeleniu zodpovednosti medzi ľudí a algoritmus/stroj:“_[^1] učiteľ v slučke, učiteľ mimo slučky a učiteľ nad slučkou:
+Spoločné výskumné centrum (JRC) vo svojej správe[^1] navrhuje nasledovné: _„Pri vzdelávacích aplikáciách a službách, ktoré sa spoliehajú na autonómne rozhodovanie, možno uvažovať o troch rôznych prístupoch k rozdeleniu zodpovednosti medzi ľudí a algoritmus/stroj:“_[^1] učiteľ je súčasťou rozhodovania, učiteľ nie je súčasťou rozhodovania a učiteľ dohliada na rozhodovanie:
 
-- **Učiteľ v slučke** (teacher-in-the-loop): Predstavte si aplikáciu, ktorá autonómne vyhodnocuje dôležité skúšky alebo diagnostikuje poruchu učenia. V takýchto situáciách by nesprávne rozhodnutie mohlo konečnému používateľovi spôsobiť vážnu ujmu (napr. stratu príležitosti, nespravodlivé zaobchádzanie). Pri rozhodnutiach alebo aplikáciách, ktoré by mohli spôsobiť škodu alebo mať pre koncového používateľa vážne dôsledky, by mal systém pedagógovi najprv odporučiť rozhodnutie s dostatkom transparentných informácií, aby ho mohol skontrolovať – a až potom sa rozhodnúť, či konečné rozhodnutie vykoná alebo nie (obrázok č. 1, vpravo hore).
+- **Učiteľ je súčasťou rozhodovania** (teacher-in-the-loop): Predstavte si aplikáciu, ktorá autonómne vyhodnocuje dôležité skúšky alebo diagnostikuje poruchu učenia. V takýchto situáciách by nesprávne rozhodnutie mohlo konečnému používateľovi spôsobiť vážnu ujmu (napr. stratu príležitosti, nespravodlivé zaobchádzanie). Pri rozhodnutiach alebo aplikáciách, ktoré by mohli spôsobiť škodu alebo mať pre koncového používateľa vážne dôsledky, by mal systém pedagógovi najprv odporučiť rozhodnutie s dostatkom transparentných informácií, aby ho mohol skontrolovať – a až potom sa rozhodnúť, či konečné rozhodnutie vykoná alebo nie (obrázok č. 1, vpravo hore).
 
-- **Učiteľ nad slučkou** (teacher-over-the-loop): Existujú aj iné typy rozhodnutí, pri ktorých stačí, ak si pedagóg udržiava prehľad o rozhodnutiach prijatých aplikáciou. Môže to byť napríklad prípad, keď adaptívna vzdelávacia platforma odporučí študentovi učebnú aktivitu na dosiahnutie zamýšľaného výsledku vzdelávania (obrázok č. 1, vpravo dole).
+- **Učiteľ dohliada na rozhodovanie** (teacher-over-the-loop): Existujú aj iné typy rozhodnutí, pri ktorých stačí, ak si pedagóg udržiava prehľad o rozhodnutiach prijatých aplikáciou. Môže to byť napríklad prípad, keď adaptívna vzdelávacia platforma odporučí študentovi učebnú aktivitu na dosiahnutie zamýšľaného výsledku vzdelávania (obrázok č. 1, vpravo dole).
 
-- **Učiteľ mimo slučky** (teacher-above-the-loop): V situácii, keď je pravdepodobnosť a závažnosť škody spôsobenej (napríklad) vzdelávacou aplikáciou používanou mimo školy nízka, monitorovanie zo strany pedagóga nie je potrebné (obrázok č. 1, vľavo dole).
+- **Učiteľ nie je súčasťou rozhodovania** (teacher-out-of-the-loop): V situácii, keď je pravdepodobnosť a závažnosť škody spôsobenej (napríklad) vzdelávacou aplikáciou používanou mimo školy nízka, monitorovanie zo strany pedagóga nie je potrebné (obrázok č. 1, vľavo dole).
 
-## Interaktívna prezentácia modelu „učiteľ v slučke“.
-O modeli „učiteľ v slučke“ sa dozviete viac kliknutím na nasledujúci obrázok.
+## Informácie o modeli: „Úloha učiteľa pri rozhodovaní“.
+Na obrázku sú zobrazené rôzne úrovne zapojenia učiteľa pri autonómnom rozhodovaní vo vzdelávaní. 
 
 <a href="https://view.genial.ly/63aad9b7560d05001916bb98" target="_blank">
 <figure>
