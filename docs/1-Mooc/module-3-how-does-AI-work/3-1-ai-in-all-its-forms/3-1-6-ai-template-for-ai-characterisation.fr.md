@@ -24,7 +24,7 @@ contributor:  Jiajun Pan
 
 Hoci AI vzdelávacie zdroje sú čoraz bežnejšie, v súčasnosti neexistuje nástroj, ktorý by komplexne mapoval ich charakteristiky a pomáhal používateľom informovane tieto zdroje využívať.
 
-Výskumné laboratórium LORIA[^1] špeciálne navrhlo šablónu na charakterizovanie AI[^2] na vedeckej, technickej, regulačnej a etickej úrovni s cieľom pomôcť učiteľom lepšie pochopiť zdroje, ktoré oni alebo ich študenti používajú.
+Výskumné laboratórium LORIA[^1] špeciálne navrhlo šablónu na charakterizovanie AI[^2] na vedeckej, technickej, regulačnej a etickej úrovni s cieľom pomôcť učiteľom lepšie pochopiť zdroje, ktoré oni alebo ich žiaci používajú.
 
 Je usporiadaná do rôznych vrstiev, ktoré pokrývajú všetky charakteristiky AI vzdelávacích nástrojov, od scenárov používania až po mechanizmus transparentnosti, ktorý vysvetľuje rozhodnutia navrhnuté umelou inteligenciou.
 
