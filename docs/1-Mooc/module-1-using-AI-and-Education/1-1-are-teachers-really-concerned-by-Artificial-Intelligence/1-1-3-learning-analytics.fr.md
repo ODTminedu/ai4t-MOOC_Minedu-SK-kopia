@@ -1,5 +1,5 @@
 ---
-title: "1.1.3 Video: Prechádzka svetom AI – Analytika učenia"
+title: "1.1.3 Video: Analytika učenia sa"
 description: Video 3 Prechádzka svetom AI – Analytika učenia
 contributor:  Anne, Boyer - Loria
               Armelle, Brun - Loria
