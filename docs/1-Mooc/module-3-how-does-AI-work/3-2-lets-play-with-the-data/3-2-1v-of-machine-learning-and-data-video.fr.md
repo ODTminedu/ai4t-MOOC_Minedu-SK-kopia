@@ -17,7 +17,7 @@ licence: CC BY-SA 2.0
     - Licence: CC BY-SA 2.0
     - Date: 2022-11-15
     
-# Video: Strojové učenie a dáta
+# Video: Strojové učenie a údaje
 Toto video sa konkrétnejšie zameriava na strojové učenie. Opäť ide o všeobecné video s humorným tónom, ktoré môžete použiť v triede.
 
 Video poskytuje prehľad určitých konceptov strojového učenia vo forme animovaného filmu:
