@@ -1,5 +1,5 @@
 ---
-title: "2.1.1 Video: Kto sa bojí umelej inteligencie?"
+title: "2.1.1 Video: Kto sa bojí AI?"
 description: "Úvod k videu: Kto sa bojí umelej inteligencie?"
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
