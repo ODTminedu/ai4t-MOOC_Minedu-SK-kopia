@@ -1,5 +1,5 @@
 ---
-title: "3.3.1 Aktivita: Tvorme s umelou inteligenciou"
+title: "3.3.1 Aktivita: Tutoriál – Človek alebo AI"
 description: "Určite, či je obrázok skutočný alebo vytvorený umelou inteligenciou"
 contributor:  Magic Makers
               Inria
@@ -9,7 +9,7 @@ type: aktivita
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M3.3.1a
-    - Title: 3.3.1 Aktivita: Tvorme s umelou inteligenciou
+    - Title: 3.3.1 Aktivita: Tutoriál – Človek alebo AI
     - Type: aktivita
     - Description: rčite, či je obrázok skutočný alebo vytvorený umelou inteligenciou
     - Subject: Umelá inteligencia pre učiteľov a od učiteľov
@@ -22,7 +22,7 @@ type: aktivita
     - Licence: CC BY 4.0
     - Date: 2022-11-15
 
-# Aktivita: Tvorme s umelou inteligenciou
+# Aktivita: Človek alebo AI?
 ## Odhaľujeme AI: umelá inteligencia alebo človek?
 
 Nasledujúca aktivita je zameraná na určovanie, či je obrázok skutočný alebo vytvorený umelou inteligenciou. Táto experimentálna aktivita slúži ako úvod do pochopenia generatívnych adversariálnych sietí (GAN). Cieľom aktivity je pokúsiť sa rozlíšiť skutočné portréty od portrétov vytvorených cez GAN.  
