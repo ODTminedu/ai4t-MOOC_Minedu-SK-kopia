@@ -30,7 +30,7 @@ Na internete sa dá nájsť množstvo ďalších nástrojov. V nasledujúcej se
 ### Na učenie jazykov a matematiky
 [Duolingo for Schools](https://schools.duolingo.com): Bezplatná nadstavba slúžiaca na správu aplikácie na učenie sa jazykov Duolingo, ktorá poskytuje prehľad a viac kontroly nad tým, ako sa žiaci v službe Duolingo učia.
 
-[Adaptiv’langue](https://evidenceb.fr/produits/adaptiv-langue) (FR): Každý žiak absolvuje diagnostický test, na základe ktorého učiteľ získa informácie o tom, akú úroveň majú v precvičovaných zručnostiach jednotliví študenti aj celá trieda. Pokrok žiakov v aplikácii je určený ich úspešnosťou v cvičeniach, ktoré sú navrhnuté tak, aby im pomáhali napredovať bez toho, aby ich demotivovali.
+[Adaptiv’langue](https://evidenceb.fr/produits/adaptiv-langue) (FR): Každý žiak absolvuje diagnostický test, na základe ktorého učiteľ získa informácie o tom, akú úroveň majú v precvičovaných zručnostiach jednotliví žiaci aj celá trieda. Pokrok žiakov v aplikácii je určený ich úspešnosťou v cvičeniach, ktoré sú navrhnuté tak, aby im pomáhali napredovať bez toho, aby ich demotivovali.
 
 [EF Hello](https://www.hello.ef.com/) alebo [AndyChatbot](https://andychatbot.com/) (EN): Mobilné aplikácie, ktoré žiakom umožňujú učiť sa angličtinu ako cudzí jazyk prostredníctvom konverzácií.
 
@@ -50,7 +50,7 @@ Na internete sa dá nájsť množstvo ďalších nástrojov. V nasledujúcej se
 Ak chcete objaviť ďalšie zdroje založené na umelej inteligencii, navštívte web Medzinárodného observatória pre sledovanie spoločenských vplyvov umelej inteligencie a digitálnych technológií (OBVIA). Prináša najmä komentáre a novinky týkajúce sa témy vzdelávania a posilňovania postavenia ľudí, pričom jeho cieľom je „reflektovať, ako zlepšiť digitálnu gramotnosť a spôsoby mobilizácie umelej inteligencie a digitálnych technológií s cieľom zvýšiť dostupnosť vzdelávania a odbornej prípravy a podporiť učenie sa.“[^2].
 
 ### Ako sa orientovať v množstve ponúkaných vzdelávacích zdrojov?
-Nástroje založené na umelej inteligencii, ako napríklad tie uvedené vyššie, tvoria jadro využívania umelej inteligencie vo vzdelávaní. V tomto kurze neskôr prinášame šablónu na analýzu vlastností týchto nástrojov z vedeckého, technického, regulačného a etického hľadiska. Cieľom je pomôcť učiteľom lepšie pochopiť prostriedky, ktoré oni alebo ich študenti využívajú.
+Nástroje založené na umelej inteligencii, ako napríklad tie uvedené vyššie, tvoria jadro využívania umelej inteligencie vo vzdelávaní. V tomto kurze neskôr prinášame šablónu na analýzu vlastností týchto nástrojov z vedeckého, technického, regulačného a etického hľadiska. Cieľom je pomôcť učiteľom lepšie pochopiť prostriedky, ktoré oni alebo ich žiaci využívajú.
 
 [^1]: [European Schoolnet. „Artificial Intelligence Role in K12 Education: Agile Collection of Information“](http://www.eun.org/documents/411753/7316225/Artificial+Intelligence+Role+in+K12+Education+Report/0b9f5e20-62f7-4966-a58e-fdacc9199248), 2021, Brusel, Belgicko.
 
