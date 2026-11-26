@@ -50,7 +50,7 @@ Poznámka: Toto sú „oficiálne“ stránky spoločnosti. Niektoré zaujímav�
   <img src="Images/Ready-To-Use-AI-Template-FR.jpg" alt="Hotový model na charakterizáciu umelej inteligencie"/>
 </figure></a>
 
-## Vyplnená šablóna: stav z januára 2023“.
+## Vyplnená šablóna: stav z januára 2023
 
 Prípadová štúdia zachytáva stav z januára 2023. Postup vytvárania žiackych účtov opísaný v šablóne už neplatí. Pri riešení úlohy použite aj aktuálne oznámenie Duolingo: (https://duolingoschools.zendesk.com/hc/en-us/articles/44824545841805-Important-information-regarding-Duolingo-for-Schools)
 
