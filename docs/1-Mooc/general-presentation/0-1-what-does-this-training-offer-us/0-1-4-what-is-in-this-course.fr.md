@@ -32,8 +32,8 @@ Kurz je rozdelený do 4 modulov:
 
 - M1. Využitie umelej inteligencie vo vzdelávaní
 - M2. Čo je to umelá inteligencia?
-- M3. Ako umelá inteligencia funguje?
-- M4. Umelá inteligencia v službách učiteľov
+- M3. Ako funguje umelá inteligencia?
+- M4. Umelá inteligencia v službách učiteľa?
 
 Celkové trvanie kurzu sa odhaduje na 2 až 3 hodiny v závislosti od toho, koľko času chcete venovať aktivitám a práci s doplnkovými materiálmi.
 
