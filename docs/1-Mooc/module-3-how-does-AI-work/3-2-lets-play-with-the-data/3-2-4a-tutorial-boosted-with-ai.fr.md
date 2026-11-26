@@ -1,5 +1,5 @@
 ---
-title: "3.2.4 Aktivita: Lepšie s umelou inteligenciou?"
+title: "3.2.4 Aktivita: Tutoriál – Posilnené AI?"
 description: "Experimentujte so strojovým učením a trénovaním programov a spoznajte význam dobre pripravených dátových súborov."
 contributor:  Magic Makers
               Inria
@@ -9,7 +9,7 @@ type: aktivita
 ---
 ??? info "Metadata"
     - Id: EU.AI4T.O1.M3.2.4a
-    - Title: 3.2.4 Aktivita: Lepšie s umelou inteligenciou?
+    - Title: 3.2.4 Aktivita: Tutoriál – Posilnené umelou inteligenciou?
     - Type: aktivita
     - Description: Experimentujte so strojovým učením a trénovaním programov a spoznajte význam dobre pripravených dátových súborov.
     - Subject: Umelá inteligencia pre učiteľov a pre učiteľov
@@ -22,10 +22,10 @@ type: aktivita
     - Licence: CC BY 4.0
     - Date: 2022-11-15
     
-# Aktivita: Lepšie s umelou inteligenciou?
+# Aktivita: Posilnené umelou inteligenciou?
 Fungovanie strojového učenia a trénovania programov najlepšie pochopíme, keď sa pozrieme na to, ako správne pripraviť dátový súbor.
 
-Tento tutoriál pozostáva zo siedmich veľmi krátkych inštruktážnych videí, takže je vhodný aj na použitie so študentmi stredných škôl.
+Tento tutoriál pozostáva zo siedmich veľmi krátkych inštruktážnych videí, takže je vhodný aj na použitie so žiakmi stredných škôl.
 
 **_Poznámka č. 1_**: Tento tutoriál neukladá žiadne osobné údaje, pričom obrázky sa spracúvajú lokálne na počítači používateľa. Tutoriál je kompatibilný s prehliadačmi Edge, Chrome, Mozilla, Safari a Opera.
 
