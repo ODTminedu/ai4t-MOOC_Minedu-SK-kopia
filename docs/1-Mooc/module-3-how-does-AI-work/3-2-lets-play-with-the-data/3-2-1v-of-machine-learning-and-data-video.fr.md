@@ -1,5 +1,5 @@
 ---
-title: "3.2.1 Video: Strojové učenie a dáta"
+title: "3.2.1 Video: Strojové učenie a údaje"
 description: "Video špeciálne venované strojovému učeniu s dôrazom na učenie s dohľadom, posilňované učenie, neurónové siete a hlboké učenie."  
 contributor:  Mooc "Intelligence Artificielle...avec Intelligence"
 type: video
