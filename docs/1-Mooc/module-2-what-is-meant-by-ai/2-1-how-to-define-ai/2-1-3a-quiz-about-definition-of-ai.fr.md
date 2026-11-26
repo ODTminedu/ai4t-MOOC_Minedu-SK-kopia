@@ -1,5 +1,5 @@
 ---
-title: "2.1.3 Aktivita: Aká je definícia umelej inteligencie?"
+title: "2.1.3 Aktivita: Aká je definícia AI?"
 description: Kvíz zameraný na rôzne definície umelej inteligencie a jej oblasti
 type: aktivita
 ---
