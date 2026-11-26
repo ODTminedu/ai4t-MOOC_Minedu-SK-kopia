@@ -1,5 +1,5 @@
 ---
-title: "1.1.1 Video: Proces učenia sa vo vzdelávaní"
+title: 1.1.1 Video: Proces učenia sa vo vzdelávaní
 description: Video 1 Prechádzka svetom AI: proces učenia vo vzdelávaní
 contributor:  Anne Boyer - Loria
               Armelle Brun - Loria
@@ -36,7 +36,7 @@ Môžeme sa pozrieť aj na ďalší príklad, tentokrát založený na senzoroch
 
 Mnohé takéto senzory a softvérové nástroje nám už dnes poskytujú spätnú väzbu, prehľady, predpovede, odporúčania a vizualizácie všetkých vykonaných analýz, aby nám pomohli optimalizovať naše aktivity v rôznych oblastiach. Prečo teda nevyužiť tieto technologické rámce umelej inteligencie aj na optimalizáciu vzdelávania?
 
-V tomto kontexte prinášame **lekciu *Prechádzka svetom AI* so sériou troch úvodných videí**, v ktorých sa do týchto otázok ponoríme hlbšie. Preskúmame tiež úlohu, ktorú môže v oblasti školstva zohrávať umelá inteligencia, konkrétne analytika učenia. Analytikou učenia sa zvyčajne myslí pozorovanie, analýza a vizualizácia digitálneho správania študenta v rámci jeho vzdelávacích aktivít v online prostredí.
+V tomto kontexte prinášame **lekciu *Prechádzka svetom AI* so sériou troch úvodných videí**, v ktorých sa do týchto otázok ponoríme hlbšie. Preskúmame tiež úlohu, ktorú môže v oblasti školstva zohrávať umelá inteligencia, konkrétne analytika učenia. Analytikou učenia sa zvyčajne myslí pozorovanie, analýza a vizualizácia digitálneho správania žiaka v rámci jeho vzdelávacích aktivít v online prostredí.
 
 ## Video č. 1: Prechádzka svetom AI: proces učenia vo vzdelávaní
 
